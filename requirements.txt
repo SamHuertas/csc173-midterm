@@ -1,0 +1,24 @@
+# Install with:  pip install -r requirements.txt
+
+# --- notebooks 01-03 (data, train, baseline) ---
+torch
+transformers>=4.46,<5     
+accelerate
+pandas
+matplotlib
+tqdm
+PyYAML
+ipykernel
+ipywidgets
+nbstripout
+
+# --- later steps: faithfulness scoring and statistics ---
+nltk
+sentencepiece
+protobuf
+spacy
+scikit-learn
+pytorch-lightning
+# ROUGE-L and the bootstrap test:
+rouge-score
+scipy
