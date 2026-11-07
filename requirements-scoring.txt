@@ -1,0 +1,28 @@
+# Environment for the scoring step (SummaC, AlignScore, ROUGE-L).
+# Install into its OWN virtual environment, .venv-scoring (see SETUP_SCORING.md).
+# Never install this file, or summac / alignscore, into the main .venv.
+
+torch
+transformers>=4.46,<5
+pandas
+numpy
+matplotlib
+tqdm
+PyYAML
+ipykernel
+ipywidgets
+
+# SummaC and AlignScore are installed with --no-deps, so their real dependencies are listed here
+nltk
+sentencepiece
+protobuf
+spacy
+scikit-learn
+scipy
+pytorch-lightning
+datasets
+jsonlines
+tensorboard
+
+# ROUGE-L
+rouge-score

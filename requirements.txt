@@ -13,6 +13,7 @@ ipywidgets
 nbstripout
 
 # --- later steps: faithfulness scoring and statistics ---
+# metrics such as alignscore and summac not yet installed
 nltk
 sentencepiece
 protobuf
