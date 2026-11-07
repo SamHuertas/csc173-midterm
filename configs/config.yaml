@@ -1,4 +1,3 @@
-# Settings for all three notebooks. Fixed before any score is seen:
 # do not change after training starts or after baseline.csv is written.
 seed: 42
  
@@ -17,9 +16,9 @@ train:
   effective_batch: 16     # per-device batch x gradient accumulation, the same on every machine
  
 baseline:
-  batch_size: 16          # speed only; does not change the summaries
+  batch_size: 16          # speed only
   decoding:               # the one fixed decoding method for all 618 summaries
-    num_beams: 1          # greedy
+    num_beams: 1          
     do_sample: false
     max_new_tokens: 64
     no_repeat_ngram_size: 3   # never repeat a 3-word sequence (this is the model's default; stated here on purpose)
