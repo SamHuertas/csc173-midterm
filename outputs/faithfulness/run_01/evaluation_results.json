@@ -19,8 +19,8 @@
     },
     "correlation": {
       "n": 618,
-      "pearson_r": 0.37219911619195195,
-      "pearson_p_two_sided": 9.673027404073637e-22,
+      "pearson_r": 0.3721991161919519,
+      "pearson_p_two_sided": 9.673027404074797e-22,
       "spearman_rho": 0.6319119079969574,
       "spearman_p_two_sided_asymptotic": 3.3806306975506835e-70
     }
