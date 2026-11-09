@@ -1,0 +1,26 @@
+{
+  "protocol": {
+    "device": "cuda",
+    "outer_batch": 8,
+    "internal_batch": 8,
+    "summac": {
+      "variant": "ZS",
+      "model_name": "vitc",
+      "granularity": "sentence",
+      "op1": "max",
+      "op2": "mean",
+      "use_ent": true,
+      "use_con": false,
+      "max_doc_sents": 100,
+      "max_input_length": 500
+    },
+    "alignscore": {
+      "model": "roberta-base",
+      "evaluation_mode": "nli_sp"
+    }
+  },
+  "snapshots": {
+    "roberta-base": "e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+    "tals/albert-xlarge-vitaminc-mnli": "3082ba54344bd9ddada2be1c5e9b4131721d2a5d"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "baseline_scores_sha256": "5feb1596bda80d13fe1b583c3dbc3184e6850d130a7a8898d689082d5a59e471",
+  "candidate_scores_sha256": "83046d5f7d873b05d76e5862a8772e6d7128d13c0bf37962ab5dadcab08fc7c0",
+  "tie_rule": "exact AlignScore tie -> smallest candidate ID",
+  "primary_endpoint": "mean paired SummaC change",
+  "bootstrap_repeats": 10000,
+  "seed": 42,
+  "unchanged_tolerance": 1e-08,
+  "rouge": "rougeL F1, stemming, maximum reference F1 per paper"
+}
