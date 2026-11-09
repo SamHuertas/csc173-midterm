@@ -1,0 +1,114 @@
+{
+  "n_papers": 618,
+  "n_candidates": 3090,
+  "baseline": {
+    "n": 618,
+    "metrics": {
+      "summac_score": {
+        "mean": 0.7723422703748124,
+        "sd_sample": 0.35020744901090844,
+        "min": 0.00885009765625,
+        "max": 0.99609375
+      },
+      "alignscore_score": {
+        "mean": 0.9182283570605683,
+        "sd_sample": 0.2058911556201234,
+        "min": 0.002373930998146534,
+        "max": 0.9986875653266907
+      }
+    },
+    "correlation": {
+      "n": 618,
+      "pearson_r": 0.37219911619195195,
+      "pearson_p_two_sided": 9.673027404073637e-22,
+      "spearman_rho": 0.6319119079969574,
+      "spearman_p_two_sided_asymptotic": 3.3806306975506835e-70
+    }
+  },
+  "reranked": {
+    "metrics": {
+      "summac_score": {
+        "mean": 0.8909996468915393,
+        "sd_sample": 0.26944761543594087,
+        "min": 0.0064544677734375,
+        "max": 0.99609375
+      },
+      "alignscore_score": {
+        "mean": 0.9912205857848658,
+        "sd_sample": 0.0331019502006005,
+        "min": 0.48743319511413574,
+        "max": 0.999170184135437
+      }
+    },
+    "correlation": {
+      "n": 618,
+      "pearson_r": 0.1484924063405781,
+      "pearson_p_two_sided": 0.00021176953536359555,
+      "spearman_rho": 0.2060016137606005,
+      "spearman_p_two_sided_asymptotic": 2.388213123948591e-07
+    }
+  },
+  "paired": {
+    "summac": {
+      "mean_delta": 0.11865737651672692,
+      "ci95_percentile": [
+        0.08969022921631122,
+        0.14798648354819421
+      ],
+      "n": 618,
+      "bootstrap_repeats": 10000,
+      "seed": 42,
+      "unchanged_tolerance": 1e-08,
+      "improved": 306,
+      "declined": 194,
+      "unchanged": 118,
+      "improved_pct": 49.51456310679612,
+      "declined_pct": 31.3915857605178,
+      "unchanged_pct": 19.093851132686083
+    },
+    "alignscore": {
+      "mean_delta": 0.07299222872429753,
+      "ci95_percentile": [
+        0.05788074422032048,
+        0.08944469376404628
+      ],
+      "n": 618,
+      "bootstrap_repeats": 10000,
+      "seed": 42,
+      "unchanged_tolerance": 1e-08,
+      "improved": 492,
+      "declined": 35,
+      "unchanged": 91,
+      "improved_pct": 79.6116504854369,
+      "declined_pct": 5.663430420711974,
+      "unchanged_pct": 14.724919093851133
+    },
+    "rougeL": {
+      "mean_delta": -0.008953203143477775,
+      "ci95_percentile": [
+        -0.017898199045290795,
+        0.00017249536966885544
+      ],
+      "n": 618,
+      "bootstrap_repeats": 10000,
+      "seed": 42,
+      "unchanged_tolerance": 1e-08,
+      "improved": 187,
+      "declined": 264,
+      "unchanged": 167,
+      "improved_pct": 30.258899676375403,
+      "declined_pct": 42.71844660194175,
+      "unchanged_pct": 27.022653721682847
+    }
+  },
+  "rougeL_means": {
+    "baseline": 0.36735763869777655,
+    "reranked": 0.3584044355542988
+  },
+  "primary_endpoint": "summac",
+  "notes": [
+    "Automatic metric changes do not prove factual correctness.",
+    "AlignScore selected winners; its gain is selection-favored.",
+    "ROUGE CI including zero does not establish non-inferiority."
+  ]
+}

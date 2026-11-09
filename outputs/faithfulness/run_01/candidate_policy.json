@@ -1,0 +1,6 @@
+{
+  "returned_per_paper": 10,
+  "retained_per_paper": 5,
+  "duplicates_allowed": false,
+  "selection": "first five distinct whitespace-normalized texts in raw rank order"
+}
