@@ -2,9 +2,7 @@
 
 CUDA is not required by the research method. The current notebooks 06 and 08 explicitly require it as a local performance choice. This guide explains how to change those notebooks to CPU execution without overwriting the GPU experiment.
 
-These are instructions only: adding this document does not change notebook code, installed packages, or saved results.
-
-## 1. Decide what you need to reproduce
+## 1. What to reproduce
 
 | Goal | Work needed |
 |---|---|
@@ -16,13 +14,11 @@ To reproduce scoring of the same summaries, reuse `evaluation_pairs.csv` and `ge
 
 ## 2. Set up the scoring environment
 
-On a teammate's machine, create a fresh `.venv-scoring` using the installation steps in [SETUP_SCORING.md](SETUP_SCORING.md). Those steps install the scoring requirements, SummaC/AlignScore with `--no-deps`, the SummaC tokenizer patch, and language resources.
+Create a fresh `.venv-scoring` using the installation steps in [SETUP_SCORING.md](SETUP_SCORING.md). Those steps install the scoring requirements, SummaC/AlignScore with `--no-deps`, the SummaC tokenizer patch, and language resources.
 
-An existing CUDA-enabled PyTorch installation can also execute on CPU: choosing `device='cpu'` is sufficient. You do not have to uninstall CUDA just to run these notebooks on CPU. On a CPU-only machine, a compatible CPU build of PyTorch is sufficient.
+An existing CUDA-enabled PyTorch installation can also execute on CPU: choosing `device='cpu'` is sufficient. 
 
 Select `.venv-scoring` as the kernel for notebooks 05, 06, 08, and 09. A terminal environment activation does not change an already running notebook kernel.
-
-The current author's scoring environment uses a machine-local directory link to another environment's torch package. Do not copy that virtual environment to a teammate's machine or modify torch through that link. Create their environment from the setup instructions instead.
 
 Verify the selected interpreter with:
 
@@ -102,7 +98,7 @@ Both metric constructors already receive `device=PROTOCOL['device']`. This chang
 
 Keep the existing scientific settings: SummaC entailment-only configuration, AlignScore model/checkpoint and evaluation mode, input limits, and summary inputs. Do not change these just to switch devices.
 
-Start with the existing batch sizes of eight. If RAM is insufficient, reduce `outer_batch` and `internal_batch` consistently in both notebooks and record the change. Smaller batches may reduce temporary inference memory, but cannot eliminate the RAM needed to load model weights. CPU execution can be substantially slower.
+Start with the existing batch sizes of eight. If RAM is insufficient, reduce `outer_batch` and `internal_batch` consistently in both notebooks and record the change. 
 
 ## 5. Run the CPU scoring stages
 
@@ -115,8 +111,6 @@ After editing, restart the kernel and run each relevant notebook's setup, shared
 Expected complete counts remain 618 baseline rows and 3,090 candidate rows. The notebook should print `Scoring device: CPU`. No CUDA error or GPU-name query should occur.
 
 The first scoring call can resolve/download metric files before switching subsequent model loading to offline mode. CPU execution does not remove download requirements: an offline run requires all needed model/tokenizer files and language resources to be cached first. Keep `checkpoints/AlignScore-base.ckpt` available.
-
-Do not edit a GPU run's manifest to force CPU scores into it. `Protocol changed` is the expected protection when device/settings differ. Use the new folder. Interrupted CPU scoring can resume from its own saved batches with unchanged inputs/settings.
 
 ## 6. Optional: regenerate candidates on CPU
 
@@ -154,5 +148,3 @@ The folder must exist before redirecting that inventory. The requirements file c
 CPU and GPU floating-point computations can produce slightly different scores; matching results need not mean bit-for-bit equality. Small differences can also change a winner when candidate scores are very close. Regenerating candidates can introduce further differences. The seed alone does not guarantee cross-device identity.
 
 CPU inference still needs substantial RAM and adequate Windows pagefile capacity. Error 1455 or an allocation failure is a system-memory problem that CPU execution does not automatically resolve. Keep enough disk space for models, temporary downloads, and virtual memory.
-
-If a teammate only needs Member 3's analysis on the already computed scores, they can use notebook 09 with the completed run and its manifests. That calculation does not require recomputing neural scores or changing notebooks 06 and 08.
