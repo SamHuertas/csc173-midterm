@@ -19,7 +19,8 @@ protobuf
 spacy
 scikit-learn
 scipy
-pytorch-lightning
+pytorch-lightning>=1.7.7,<2  # AlignScore calls load_from_checkpoint on an instance
+setuptools>=77.0.3,<81      # Lightning 1.x imports pkg_resources
 datasets
 jsonlines
 tensorboard
