@@ -1,0 +1,7 @@
+{
+  "experiment_sha256": "fd3b9aff1b879a3d484a29f1821d3a7ae5e6e25453777306d533fb3cece3e33d",
+  "inputs": {
+    "outputs\\validation\\diverse_beam\\penalty_2.0.csv": "8b5ea303a8ddee51213308fe07b467f8b5126dcbf7add1207696ad3da4b81ac5",
+    "checkpoints\\AlignScore-base.ckpt": "6aedb637f0596ab29baef91e94466a57f032e02feea654978518919fe0981607"
+  }
+}

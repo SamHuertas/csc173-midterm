@@ -1,0 +1,6 @@
+{
+  "experiment_sha256": "fd3b9aff1b879a3d484a29f1821d3a7ae5e6e25453777306d533fb3cece3e33d",
+  "inputs": {
+    "outputs\\validation\\reranked\\penalty_1.0.csv": "6409cb8ea9b219a7bd751743e63bb781325c62c197e09d3b854f9d28b74edc46"
+  }
+}
