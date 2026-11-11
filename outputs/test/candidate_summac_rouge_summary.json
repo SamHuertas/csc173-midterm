@@ -1,0 +1,11 @@
+{
+    "total_articles": 615,
+    "mean_baseline_summac": 0.761174256480261,
+    "mean_baseline_rougeL": 0.36751780812135637,
+    "std_baseline_summac": 0.3540497607058632,
+    "std_baseline_rougeL": 0.18718779511165035,
+    "mean_candidate_summac": 0.8753065708933807,
+    "mean_candidate_rougeL": 0.36584155511093186,
+    "std_candidate_summac": 0.2796447119521301,
+    "std_candidate_rougeL": 0.18508725493012118
+}
