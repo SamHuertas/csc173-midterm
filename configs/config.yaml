@@ -1,24 +1,27 @@
+# Settings for all three notebooks. Fixed before any score is seen:
 # do not change after training starts or after baseline.csv is written.
 seed: 42
- 
+model_hub: SamHuertas/SciTLDR-trained-BART   # used by notebooks 03 and 04 when outputs/model does not exist
+
 data:
   url: https://raw.githubusercontent.com/allenai/scitldr/master/SciTLDR-Data/SciTLDR-A
-  sizes: {train: 1992, test: 618}
+  sizes: {train: 1992, dev: 619, test: 618}   # dev = validation split
   max_source_len: 512     # abstract tokens kept
   max_target_len: 64      # TLDR tokens kept
- 
+
 train:
   model: facebook/bart-base
-  epochs: 5
+  epochs: 10                  # maximum; early stopping usually ends training sooner
+  early_stopping_patience: 2  # stop when validation loss has not improved for this many epochs in a row
   lr: 3.0e-5
   weight_decay: 0.01
   warmup_ratio: 0.1
   effective_batch: 16     # per-device batch x gradient accumulation, the same on every machine
- 
+
 baseline:
-  batch_size: 16          # speed only
+  batch_size: 16          # speed only; does not change the summaries
   decoding:               # the one fixed decoding method for all 618 summaries
-    num_beams: 1          
+    num_beams: 1          # greedy
     do_sample: false
     max_new_tokens: 64
     no_repeat_ngram_size: 3   # never repeat a 3-word sequence (this is the model's default; stated here on purpose)
