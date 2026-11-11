@@ -1,0 +1,616 @@
+﻿id,summary,alignscore
+SJ1Xmf-Rb,"We propose FearNet, a generative model that does not store previous examples, making it memory efficient.",0.9950875639915466
+HJDUjKeA-,"We show how discrete objects can be learnt in an unsupervised fashion from pixels, and how to perform reinforcement learning using this object representation.",0.9911770820617676
+BJgLg3R9KQ,We extend a state-of-the-art attention network and demonstrate its benefit of using stronger supervisory signals by teaching DCNs to attend to image regions that humans deem important for object recognition.,0.9904725551605225
+BklpOo09tQ,"We show that adversarial examples can be generated only ata cost similar to that of two runs of the fast gradient sign method (FGSM), allowing defense against adversarial attacks with a robustness level comparable to thatof the adversarial training with multi-step adversarial example.",0.9807153940200806
+BJLmN8xRW,We compare the effectiveness of various deep learning architectures for character based text classification with each other.,0.9830117225646973
+rkMlSnAqYX,"We propose a framework for building robust models by using adversarial learning to encourage models to learn latent, bias-free representations.",0.9969868063926697
+HkgEQnRqYQ,"We present a new approach for knowledge graph embedding called RotatE, which is able to model and infer various relation patterns including: symmetry/antisymmetry, inversion, and composition.",0.9941153526306152
+rkeDJ04Mf,We propose a simple yet effective method to improve robustness of convolutional neural networks (CNNs) to adversarial attacks by using data dependent adaptive convolution kernels.,0.988620936870575
+HyxnZh0ct7,We propose fast convergent methods to adapt a deep network to new concepts from a few examples.,0.9920418858528137
+HJfSEnRqKQ,"We propose active learning with partial labels, a method that allows active learners to choose which example to label and which binary question to ask.",0.8571285009384155
+rJg4J3CqFm,We propose an alternative to Euclidean embeddings of data that captures the semantic information in the Wasserstein distance between embedded distributions.,0.9519964456558228
+SJzMATlAZ,We present a clustering algorithm that performs nonlinear dimensionality reduction and clustering jointly.,0.9972606897354126
+SJzYdsAqY7,"We propose a new pruning method, spatial-Winograd pruning, which efficiently transfers the spatial-domain sparsity into the Winograd domain and avoids Winogrrad-domain retraining.",0.9919044971466064
+SygHGnRqK7,We develop a Bayesian nonparametric framework for federated learning with neural networks.,0.9956154823303223
+B1n8LexRZ,"We present a general-purpose method to train Markov chain Monte Carlo kernels, parameterized by deep neural networks, that converge and mix quickly to their target distribution.",0.9941868782043457
+B1xhQhRcK7,We propose an adversarial evaluation approach for reinforcement learning that can find catastrophic failures and estimate their probability of failure.,0.9547392129898071
+rylDfnCqF7,We investigate posterior collapse from the perspective of training dynamics.,0.9963002800941467
+BJhxcGZCW,"We introduce a generative model called Conditional Relationship Variational Autoencoder (CRVAE), which can discover meaningful and novel relational medical entity pairs without the requirement of additional external knowledge.",0.9821926951408386
+B1e0X3C9tQ,We propose a simple VAE enhancement that produces crisp samples and stable FID scores that are actually competitive with a variety of GAN models.,0.9977395534515381
+H1zriGeCZ,"We give a simple, fast algorithm for hyperparameter optimization inspired by techniques from the analysis of Boolean functions.",0.9940425753593445
+Byt3oJ-0W,We propose a collection of new methods for end-to-end learning in latent variable models that approximate discrete maximum-weight matching using the continuous Sinkhorn operator.,0.9844187498092651
+BJGVX3CqYm,We explore a new dimension of the design space: quantizing different layers with different bit-widths.,0.9971612691879272
+Hk5elxbRW,We introduce a family of smoothed loss functions that are suited to top-$k$ optimization via deep learning.,0.9929456114768982
+BklKFo09YX,We present a novel CycleGAN-based model that generates optimized compounds with a chemical scaffold of interest.,0.5733895897865295
+rJFOptp6Z,"We propose a new method for learning to distill face recognition into knowledge transfer, which is a good way to improve the distillation performance of classification tasks.",0.9358929395675659
+ryCM8zWRb,We introduce a novel ranking loss function tailored for RNNs in recommendation settings.,0.9970511198043823
+rJUBryZ0W,"We develop a framework for lifelong learning in deep neural networks that is based on generalization bounds, developed within the PAC-Bayes framework.",0.9949102997779846
+HJSA_e1AW,We propose a new optimization algorithm that bridges the generalization gap between Adam and SGD.,0.9866818189620972
+Bk8ZcAxR-,We propose an algorithm that discovers eigenoptions while learning non-linear state representations from raw pixels.,0.994835615158081
+B1MAJhR5YX,"We approximate the expressiveness of a piecewise linear neural network by the number of linear regions, or pieces, of the function modeled.",0.9947250485420227
+B1fbosCcYm,"We introduce a novel, biologically inspired visual working memory architecture that we term the Hebb-Rosenblatt memory.",0.9961860775947571
+HJgOl3AqY7,We introduce a novel variational auto-Encoders (MoVE) to perform musical timbre transfer.,0.29339292645454407
+HJx54i05tX,We study the behavior of weight-tied multilayer vanilla autoencoders under the assumption of random weights.,0.9959781169891357
+rkgwuiA9F7,"We construct a new generative model – Cramer-Wold AutoEncoder (CWAE) based on introduced Cramer Wold distance between samples, has a simple closed-form in the case of normal prior.",0.9898842573165894
+S1GkToR5tm,We propose a rejection sampling scheme using the discriminator of a GAN to recover the data distribution from approximately correct errors in the GAN generator distribution.,0.9786661863327026
+SyGT_6yCZ,We propose a simple and fast way to train supervised convolutional models to feature extraction while still maintaining its high-quality.,0.9965284466743469
+BJej72AqF7,We develop a framework for understanding and improving recurrent neural networks (RNNs) using max-affine spline operators (MASOs).,0.9944953322410583
+BJzmzn0ctX,We propose Neighbourhood-approximated Neural Theorem Provers (NTPs) consisting of two extensions toNTP.,0.9874209761619568
+HyFaiGbCW,We investigate the methods by which a Reservoir Computing Network (RCN) learns concepts such as 'similar' and 'different' between pairs of images using a small training dataset and generalizes these concepts to previously unseen types of data.,0.9962940812110901
+H1xAH2RqK7,"We present GAPF, a data-driven framework for learning private and fair representations of the data.",0.9967697858810425
+H1g0piA9tQ,We propose a new class of adversarial attacks that can be used to make models more confident of their answer.,0.3512488603591919
+Sklsm20ctX,"We propose a novel method called competitive experience replay, which efficiently supplements a sparse reward by placing learning in the context of an exploration competition between a pair of agents.",0.9835113286972046
+rygkk305YQ,"A neural end-to-end text-to text-tTS model which can control latent attributes in the generated speech that are rarely annotated in the training data, such as speaking style, accent, background noise, and recording conditions.",0.9488095045089722
+B12Js_yRb,We propose a neural network component that allows robust counting from object proposals.,0.9976758360862732
+rJedbn0ctQ,We propose a simple and robust training-free approach for building sentence representations.,0.9973697662353516
+HJcSzz-CZ,We propose novel extensions of Prototypical Networks that are augmented with the ability to use unlabeled examples when producing prototypes.,0.9956526756286621
+SyMhLo0qKQ,We investigate the properties of multidimensional probability distributions in the context of latent space prior distributions of implicit generative models.,0.9945719838142395
+rk1FQA0pW,We proposed an end-to-end DNN for lung nodule detection in low-dose chest computed tomography.,0.9890128374099731
+BkiIkBJ0b,We study the underlying question of whether DRL algorithms are capable of navigating the mazes and finding the goal.,0.9917089343070984
+BylBns0qtX,We learn heteroscedastic noise models for the system dynamics and show that they can improve tracking performance in comparison to other noise models.,0.9783791303634644
+rkgs0oAqFQ,We propose a Dense Graph Propagation module with carefully designed direct links among distant nodes.,0.9951092600822449
+H1xpe2C5Km,We propose a capsule-based neural network model to solve the semantic segmentation problem.,0.9984336495399475
+SkMON20ctX,We propose a framework for understanding SGD learning in the information plane which consists of observing entropy and conditional entropy of the output labels of ANNs.,0.9893295168876648
+HkeoOo09YX,A meta-learning algorithm that allows automated design for the underlying continuous dynamics of an SG-MCMC sampler.,0.9937292337417603
+ryzm6BATZ,"We propose a new, multi-component energy function for energy-based Generative Adversarial Networks (GANs) based on methods from the image quality assessment literature.",0.9979117512702942
+Syxt5oC5YQ,"We propose Aggregated Momentum, a variant of momentum which combines multiple velocity vectors with different damping coefficients.",0.9958337545394897
+BJ78bJZCZ,We present a new RWA unit that captures long term dependencies and performs better than the LSTM and GRU on several challenging tasks.,0.9083418846130371
+B1GAUs0cKQ,"We introduce variance layers, a different kind of stochastic layers, which are only parameterized by its variance.",0.9954053163528442
+SkaPsfZ0W,"We propose a model, Network of GCNs (N-GCN), which marries these two lines of work.",0.9961644411087036
+SJtChcgAW,We propose a cheap pruning algorithm based on difference of convex (DC) optimisation and a theoretical analysis for the growth in the Generalisation Error (GE) of the new pruned network.,0.9887974858283997
+r1nzLmWAb,"We introduce a novel hybrid temporal convolutional and recurrent network (TricorNet), which has an encoder-decoder architecture: the encoder consists of a hierarchy of temporal convolutionsal kernels that capture the local motion changes of different actions; the decoder is a hierarchy",0.9900826811790466
+rJegl2C9K7,"We propose a method to mimic features of deep CNNs, which is termed as teacher.",0.5836669206619263
+HkxAisC9FQ,We augment adversarial training (AT) with worst case adversarial Training (WCAT) which improves adversarial robustness by 11% over the current state-of-the-art result in the `2-norm on CIFAR-10.,0.9984605312347412
+B1bgpzZAZ,We propose a neural network based model which tries to mimic the current state of the art for reading multiple choice questions.,0.47002777457237244
+rkl6As0cF7,We introduce a probabilistic recursive reasoning (PR2) framework for multi-agent reinforcement learning.,0.997568666934967
+rkEfPeZRb,"We propose a method to compress gradient for efficient communication, which can achieve very high compression ratio while maintaining the result model accuracy.",0.9885425567626953
+rJWechg0Z,We propose a novel deep learning approach which leverages our finding that entropy minimization is induced by the optimal alignment of second order statistics between source and target domains.,0.9755316972732544
+B1al7jg0b,"We propose a variant of the back-propagation algorithm, ""Conceptor-Aided Backprop"" (CAB), in which gradients are shielded by conceptors against degradation of previously learned tasks.",0.9973341226577759
+H1eqviAqYX,We analyze the problem of neural Sequence-to-Sequence (Seq2Seq) models from the perspective of the optimization goal of models and the specific characteristics of human-to,0.9885198473930359
+H1gKYo09tX,We present code2seq: an alternative approach that leverages the syntactic structure of programming languages to better encode source code.,0.9901903867721558
+rJe7FW-Cb,We propose a novel attention mechanism to enhance Convolutional Neural Networks for fine-grained recognition.,0.9968981742858887
+rkQsMCJCb,We propose a novel adaptive convolution method that learns the upsampling algorithm based on the local context at each location to address this problem.,0.9955976605415344
+rkr1UDeC-,We propose a variant of distillation which is relatively straightforward to use as it does not require a complicated multi-stage setup or many new hyperparameters.,0.986401379108429
+r1saNM-RW,We propose a novel coreset construction algorithm for efficiently generating compact representations of massive data sets to speed up SVM training.,0.9965883493423462
+HyxjwgbRZ,We show that signSGD is a very efficient gradient descent method for non-convex functions.,0.8818069100379944
+rkf5hnNDj7,We propose a transparent middleware layer for neural network acceleration that enables one to combine device-specific libraries and custom optimizations while supporting numerous hardware devices.,0.9898949265480042
+BJepX2A9tX,"We propose a simple, efficient conic convolutional scheme that encodes rotational equivariance, along with a method for integrating the magnitude response of the 2D-discrete-Fourier transform (2D-DFT) to encode global rotational invariance.",0.9794414043426514
+BJzbG20cFQ,We propose a novel approach to visual metamerism that combines a mixture of peripheral representations and style transfer forward-pass algorithms.,0.9628415703773499
+HJGtFoC5Fm,We propose a margin-based perspective for deep neural networks.,0.9002509117126465
+H1Dy---0Z,"We propose a distributed architecture for deep reinforcement learning at scale, that enables agents to learn effectively from orders of magnitude more data than previously possible.",0.9946879148483276
+S1fHmlbCW,"We analyze neural networks from a frame theoretic perspective to identify the sufficient conditions that enable smoothly recoverable representations of signals in L^2(R). Moreover, we show that, under certain assumptions, these properties hold even when signals are irregularly observed.",0.9946596026420593
+r1xN5oA5tm,We propose a novel phrase-based attention method to model n-grams of tokens as attention tokens for phrase-driven statistical machine translation.,0.884477436542511
+S1giro05t7,We propose a novel method for improving novel confidence in domain adaptation algorithms.,0.37757912278175354
+rkLyJl-0-,"We present a large batch, stochastic optimization algorithm that is both faster than widely used algorithms for fixed amounts of computation, and also scales up substantially better as more computational resources become available.",0.9956337809562683
+HJDV5YxCW,"We propose a method to train models whose weights are a mixture of bitwidths, that allows us to more finely tune the accuracy/speed trade-off.",0.993720293045044
+BJxRVnC5Fm,"We show that bias propagation is a pruning technique which consistently outperforms the common approach of merely removing units,  regardless of the architecture and the dataset.",0.9930263757705688
+BJe0Gn0cY7,We propose a novel method for learning latent variable generative models that preserves and encode useful information.,0.9207636713981628
+SybqeKgA-,We propose a batch adaptive stochastic gradient descent that can dynamically choose a proper batch size as learning proceeds.,0.9868192672729492
+Bylnx209YX,We investigate training time attacks on graph neural networks for node classification that perturb the discrete graph structure.,0.9946978092193604
+HkezXnA9YX,We compare modular models that generalize well by learning their layout and parametrizations.,0.7103351354598999
+rJlEojAqFm,"We introduce Relational Forward Models (RFM) for multi-agent learning, networks that can learn to make accurate predictions of agents' future behavior in multi-Agent environments.",0.9941271543502808
+r1q7n9gAb,We show that gradient descent on an unregularized logistic regression problem converges to the same direction as the max-margin solution.,0.9952079653739929
+rJEjjoR9K7,We propose a new classifier that can generalize to previously unseen domains even when domain identifiers are not available during training.,0.9911045432090759
+SJgEl3A5tm,We train a neural approximation function to imitate how a simulator applies a camouflage to vehicles and how a vehicle detector performs given images of the camouflaged vehicles.,0.9880715608596802
+rJhR_pxCZ,We introduce a differentiable decision tree that allows end-to-end optimization of a deep network to compress high-dimensional data for classification by a single decision tree.,0.9829553961753845
+rJl0r3R9KX,"We propose Regularized Learning under Label shifts (RLLS), a principled and a practical domain-adaptation algorithm to correct for shifts in the label distribution between a source and a target domain.",0.9781888127326965
+Bk9nkMa4G,We propose a method that discriminatively learns an embedding in which a simple Bayesian classifier can balance the class-priors to generalize well for rare classes.,0.9972604513168335
+BJf9k305Fm,We present a method for synthesizing states of interest for a trained agent.,0.9943776726722717
+rJxF73R9tX,We introduce the deep abstaining classifier -- a deep neural network trained with a novel loss function that provides an abstention option during training.,0.9937729239463806
+rylbWhC5Ym,"We propose a novel TD learning method, Hadamard product Regularized TD (HR-TD), that reduces over-generalization and thus leads to faster convergence.",0.9967703819274902
+Bkl-43C9FQ,We present an efficient convolution kernel for Convolutional Neural Networks (CNNs) on unstructured grids using parameterized differential operators while focusing on spherical signals such as panorama images or planetary signals. Â,0.9208140969276428
+SyzVb3CcFX,We propose a method for visual prediction that can be used to predict the trajectory of a robot arm between being at rest and holding an object up.,0.4881910979747772
+ryBnUWb0b,We train a neural network to estimate a victim's floor level via their mobile device's sensor data in a two-step process.,0.9648131132125854
+HyM8V2A9Km,"Augmenting experienCe via TeacheR's adviCE (ACTRCE), an efficient reinforcement learning technique that extends the HER framework using natural language as the goal representation.",0.99132239818573
+B1e0KsRcYQ,We extend factorization schemes to codebook strategies to improve the performance of first order models.,0.0885193720459938
+rygDeZqap7,"We propose a methodology for extending training datasets to arbitrarily big sizes and training complex, data-hungry models using weak supervision.",0.9950018525123596
+HJUOHGWRb,We introduce contextual explanation networks (CENs)---a class of models that learn to predict by generating and leveraging intermediate explanations.,0.9958156943321228
+rJ3fy0k0Z,"We propose a model free, off-policy IL algorithm for continuous control.",0.9983371496200562
+H113pWZRb,A novel graph convolutional network that generalizes CNN architectures to graph-structured data and provides a systematic way to design a set of fixed-size learnable filters to perform convolutions on graphs.,0.9923173189163208
+BJlxm30cKm,We investigate the learning dynamics of neural networks as they train on single classification tasks.,0.9967130422592163
+B1g6XnCcKQ,Unsupervised learning of objects entirely from unlabeled monocular videos.,0.9279600977897644
+r1lFYoRcFm,"We introduce state aligned vector rewards, which are easily defined in metric state spaces and allow our deep reinforcement learning agent to tackle the curse of dimensionality.",0.991118848323822
+BJvWjcgAZ,We propose Episodic Backward Update - a new algorithm to boost the performance of a deep reinforcement learning agent by fast reward propagation.,0.9965728521347046
+HkjL6MiTb,"We introduce Siamese Survival Prognosis Network, a novel SiamesE Deep Neural Network architecture that is able to effectively learn from data in the presence of multiple adverse events.",0.9952406883239746
+BkUDW_lCb,"We present a system that allows for querying data tables using natural language questions, where the system translates the question into an executable SQL query.",0.9929785132408142
+S1lg0jAcYm,"We propose a variational estimator that is unbiased, exhibits low variance, and has low computational complexity.",0.4919150769710541
+S1g2JnRcFX,"We show that local SGD converges at the same rate as mini-batch SGD in terms of number of evaluated gradients, that is, the number of workers and mini-Batch size.",0.9428325891494751
+rJgTciR9tm,We propose a soft-clustering of the data and learn its dynamics to produce a compact dynamical model while still ensuring the original objectives of causal inference and accurate predictions.,0.9880175590515137
+rJVruWZRW,"We propose a dense RNN, which has the fully connections from each hidden state to multiple preceding hidden states of all layers directly.",0.9946318864822388
+S1nQvfgA-,"We propose a new algorithm for training generative adversarial networks to jointly learn latent codes for both identities (e.g. individual humans) and observations (e.,g. specific photographs).",0.9618079662322998
+S1lNELLKuN,"We propose AlignFlow, a framework for unpaired cross-domain translation that ensures exact cycle consistency in the learned mappings.",0.9953372478485107
+B1CQGfZ0b,We propose a representative subset of examples that are both small and representative for the solver.,0.9797278046607971
+SkJKHMW0Z,We introduce recurrent relational networks which increase the suite of solvable tasks to those that require an order of magnitude more steps of relational reasoning.,0.9924457669258118
+B1xWcj0qYm,We study training arbitrary binary classifier from only unlabeled data by ERM.,0.9964463114738464
+SkfMWhAqYQ,We introduce a high-performance DNN architecture on ImageNet whose decisions are considerably easier to explain.,0.9976142644882202
+H1DkN7ZCZ,"We defined a spatial representation of sequencing information adapted for convolutional architecture that enables variant detection at VAFs, in a manner independent of the depth of sequencing.",0.9931313395500183
+SylxCx5pTQ,MedMentions is a manually annotated resource for the recognition of biomedical concepts.,0.9936104416847229
+BJg_fnRqF7,We propose a deep autoencoder Mixture Clustering algorithm that is based on a mixture of deep autoncoders where each cluster is represented by an autoencoder.,0.9969232678413391
+SJA7xfb0b,We propose a new Integral Probability Metric (IPM) between distributions: the Sobolev IPM.,0.9975639581680298
+rkmu5b0a-,We propose a new approach to train the Generative Adversarial Nets (GANs) with a mixture of generators to overcome the mode collapsing problem.,0.9958986639976501
+rJeXCo0cYX,"We introduce the BabyAI research platform, with the goal of supporting investigations towards including humans in the loop for grounded language learning.",0.9970611929893494
+HkinqfbAb,We propose a novel algorithm that jointly learns and compresses a neural network and propose a sparsity penalty to reduce the size of the network.,0.08329016715288162
+B1MIBs05F7,"We show that naive application of the SVRG technique and related approaches fail, and explore why.",0.9956562519073486
+rkeSiiA5Fm,We propose a method for applying deep learning to 3D surfaces using their spherical descriptors and alt-az anisotropic convolution on 2-sphere.,0.9964507818222046
+BySRH6CpW,We introduce a new method for training neural networks with discrete weights using stochastic parameters.,0.9971227049827576
+rkMW1hRqKX,"We present Optimal Completion Distillation (OCD), a training procedure for optimizing sequence to sequence models based on edit distance.",0.9963452219963074
+BkeAf2CqY7,We propose an efficient and efficient federated learning framework based on variational dropout.,0.9799661040306091
+SksY3deAW,We prove a multiclass boosting theory for the ResNet architectures which simultaneously creates a new technique for multiclass boosts and provides a new algorithm for ResNet-style architectures.,0.9909331798553467
+BkwHObbRZ,"We introduce a non-convex objective function $G$ whose landscape is guaranteed to have the following properties:1. All local minima of $G$, where a is a nonnegative vector and  $B$ is a full-rank weight matrix, and $\xi$ is an noise vector.",0.5803730487823486
+HJxeGb5pTm,We analyze the OIE corpus and analyze its contents.,0.9588491916656494
+SkOb1Fl0Z,We propose a domain-specific language (DSL) for use in automated architecture search which can produce novel RNNs of arbitrary depth and width.,0.9930742979049683
+HJGXzmspb,"We propose a new method termed as ``WAGE"" to discretize both training and inference, where weights (W), activations (A), gradients (G) and errors (E) among layers are shifted and linearly constrained to low-bitwidth integers.",0.9826582074165344
+rkz1YD0vjm,We explore the sparsification of CNNs by proposing three model-independent methods.,0.9978556036949158
+SJ1fQYlCZ,We propose a new training regime that removes the process of difficulty level determination in Curriculum and Self paced learning and as successful as these methods.,0.9533936977386475
+BylE1205Fm,"We study the problem of learning to map, in an unsupervised way, between domains $A$ and $B$, such that the samples $\vb \in B$ contain all the information that exists in samples $\va\in A$ and some additional information.",0.9940024018287659
+H1gR5iR5FX,"We present a new challenge for the evaluation (and eventually the design) of neural architectures and similar system, developing a task suite of mathematics problems involving sequential questions and answers in a free-form textual input/output format.",0.9927687644958496
+H1eRIoA5Y7,We propose new architectures that use a sparser coupling between the channels and thereby reduce both the number of trainable weights and the computational cost of the CNN.,0.993192732334137
+rkemqsC9Fm,We use rate-distortion theory to shed light on an important problem in latent variable modeling of data: is there room to improve the model?,0.9955587387084961
+ByfPDyrYim,We investigate backpropagating error terms only linearly and show that learning with Linear Backprop is competitive with Backpropagation.,0.9876022934913635
+HkGGfhC5Y7,"We investigate an alternate training technique for VQ-VAE, inspired by its connection to the Expectation Maximization (EM) algorithm.",0.9954760670661926
+HygcvsAcFX,"We present an Optimal margin Distribution Network, a network which embeds a loss function in regard to the optimal margin distribution.",0.9968857169151306
+HJWpQCa7z,We propose a new method for deep network compression that assesses the importance of a given layer in the network.,0.9481706619262695
+H1A5ztj3b,"We show a phenomenon, which we named ``super-convergence'', where residual networks can be trained using an order of magnitude fewer iterations than is used with standard training methods.",0.9943852424621582
+SkGT6sRcFX,We propose a principled approach to weight initialisation that correctly accounts for the functional nature of the hidden layer activations and facilitates the construction of arbitrarily many infinite-width networks.,0.9903835654258728
+Syl3_2JCZ,We propose biologically plausible synaptic plasticity rules that dynamically modify the connectivity matrix to enable information storing.,0.9858307242393494
+HJYQLb-RW,"We propose a principled and principled model for GAN training that exhibits several of the common problematic convergence behaviors (e.g., vanishing gradient, mode collapse, diverging or oscillatory behavior).",0.4933525621891022
+H1xL_iR9Km,We propose a model-agnostic method applicable to any model trained with gradient-based learning rule.,0.9827877283096313
+SJVmjjR9FX,We propose a variational framework for Bayesian phylogenetic inference that can be used to estimate the true posterior of a phylogenetic model.,0.9838056564331055
+rJoXrxZAZ,We propose a hybrid model that combines an autoregressive network named WaveNet and a conventional LSTM model to address speech synthesis.,0.9952606558799744
+H1ziPjC5Fm,We propose a novel method for interpretation and explanation of deep models.,0.987365186214447
+rJvJXZb0W,We propose a simple and efficient framework for learning sentence representations from unlabelled data.,0.997638463973999
+SySpa-Z0Z,We present a penalty that is derived from the information bottleneck principle and is theoretically grounded in a variation dropout framework.,0.9913185834884644
+SJFM0ZWCb,We propose a fully unsupervised method to naturally integrate dimensionality reduction and temporal clustering into a single end to end learning framework.,0.9949886202812195
+rJlcV2Actm,We study many-class few-shot (MCFS) problem in both supervised learning and meta-learning scenarios.,0.9942920207977295
+S17mtzbRb,"We propose two novel loss components that substantially improve the quality of produced clusters, are simple to apply to arbitrary models and cost functions, and do not require a complicated training procedure.",0.6179185509681702
+SkrHeXbCW,Learning representations that accelerate nearest neighbor algorithms,0.8825351595878601
+HkxjYoCqKX,We introduce a differentiable quantization procedure that can be used to optimize neural network quantization.,0.9699525237083435
+SyKoKWbC-,"We propose distributional adversaries that operate on samples, i.e., on sets of multiple points drawn from a distribution, rather than on single observations.",0.9944161176681519
+rJg_NjCqtX,Auto standardization of chemical compound names to the corresponding systematic names,0.48727378249168396
+SkgEaj05t7,"We study the effect of the curvature of the loss surface along the whole training trajectory, rather than only at the endpoint.",0.9757440090179443
+SJgf6Z-0W,We introduce a new approach to estimate continuous actions using actor-critic algorithms for reinforcement learning problems.,0.9961918592453003
+r1gOe209t7,We propose a specialized dropout method for convolutional neural networks that can boost the accuracy of DenseNet and state-of-the-art CNN models.,0.9588780999183655
+HJeOMhA5K7,We propose Knowledge-augmented Column Networks that leverage human advice/knowledge for better learning with noisy/sparse samples.,0.9981564879417419
+B1IDRdeCW,We show that the neural networks with binary weights and activations work in terms of HD geometry.,0.9718543887138367
+SyqAPeWAZ,"We show how a single neuron is able to provide the optimum solution for inverse problem, given a low resolution image dictionary as an operator. Introducing a new concept called Representation Dictionary Duality, we show that CNN elements (filters) are trained to be representation vectors and then, during reconstruction, used as",0.8592392206192017
+B1jscMbAW,We consider the learning of algorithmic tasks by mere observation of input-output pairs.,0.9603999853134155
+ryf6Fs09YX,We propose a general and one-sample gradient that applies to many distributions associated with non-reparameterizable continuous random variables and employ a reparameterization trick.,0.9931694269180298
+SyxvSiCcFQ,We show that the meta-loss landscape of a neural network can be represented as the quantum state output by a quantum computer.,0.11248527467250824
+BygANhA9tQ,We propose a cost-sensitive robustness objective to measure classifier performance for adversarial perturbations.,0.981019914150238
+HJhIM0xAW,We propose a metric to learn a neural response that accurately reflects the similarity of the visual input.,0.9843195080757141
+r5vnRRwrgX,"We introduce a novel workflow, QCue, for providing textual stimulation during mind-mapping.",0.9964497089385986
+rkgpCoRctm,We show that a simple ensembling of first and second order deep feature statistics can be exploited to effectively differentiate in-distribution and out-of-distributary samples.,0.9847913384437561
+ByloIiCqYQ,We propose a new method to mitigate the binary code vulnerability detection bottleneck by leveraging recent advances in deep learning representations and propose the Maximal Divergence Sequential Auto-Encoder.,0.9849050641059875
+BkltNhC9FX,We propose a new posterior attention model that can be used to model the dependence among attention and output tokens across a predicted sequence.,0.9500950574874878
+By0ANxbRW,We propose a method to compress DNNs using a constrained optimization problem.,0.9085769057273865
+SJ60SbW0b,We present a general method for visualizing an arbitrary neural network's inner mechanisms and their power and limitations.,0.9950653910636902
+HkcTe-bR-,"We propose 19 benchmarks for molecular design, including a new benchmark for molecular generation.",0.7392368316650391
+SylLYsCcFm,"We show that neural networks learn to perceive and reason about raw visual data by training them to perceive, reason about and reason over abstract relational structures.",0.9071200489997864
+HJXyS7bRb,We propose a new setting in goal-oriented dialogue system to tighten the gap between model level information isolation on individual models between two agents.,0.9785619974136353
+By3VrbbAb,"We propose a method for integrating error correction into the language model completion via a edit-distance potential and a variant of beam search that can exploit these potential functions; and 2) we show how to efficiently perform CPU-based computation to complete the queries, with error correction, in real time (generating top 10",0.9897597432136536
+rkgd0iA9FQ,We show that the convergence and generalization properties of RMSProp and ADAM are not guaranteed for smooth non-convex objectives.,0.0023739172611385584
+HyI6s40a-,We propose a novel automated countermeasure called Parallel Checkpointing Learners (PCL) to thwart the potential adversarial attacks and significantly improve the reliability (safety) of a victim DL model.,0.936775267124176
+HylVB3AqYm,We present ProxylessNAS that can directly learn the architectures for large-scale target tasks and target hardware platforms.,0.993556559085846
+ByxmXnA9FQ,We propose a higher-order uncertainty metric for deep neural networks and investigate its performance on the out-of-distribution detection task proposed by~\cite{hendrycks2016baseline}.,0.9956587553024292
+SylPMnR9Ym,We use stochastic video prediction to learn a latent variable that captures the scene's dynamics while being minimally sensitive to the scene,0.9611845016479492
+HJG0ojCcFm,We propose a framework for training agents to negotiate and form teams using deep reinforcement learning.,0.9971248507499695
+B1mvVm-C-,We propose a framework that disentangles task and environment specific knowledge by separating them into two units.,0.997688889503479
+BJeem3C9F7,"We propose pix2scene, a deep generative-based approach that implicitly models the geometric properties of a scene from images.",0.9888468384742737
+r1e3WW5aTX,We model relation representation as a supervised learning problem and learn parametrised operators that map pre-trained word embeddings to relation representations.,0.9946135878562927
+SJyVzQ-C-,We propose a simple technique called fraternal dropout that takes advantage of dropout to achieve this goal.,0.9962165951728821
+HyeGBj09Fm,We propose a novel approach for deformation-aware neural networks that learn the weighting and synthesis of dense volumetric deformation fields.,0.992104172706604
+BkoCeqgR-,We study the simplest possible case of color invariance: invariance under pixel-wise permutation of the color channels.,0.9933085441589355
+HkNGsseC-,"We extend the study of expressive efficiency to the attribute of network connectivity and in particular to the effect of ""overlaps"" in the convolutional process, i.e., when the stride of the convolving is smaller than its filter size (receptive field).",0.9943580031394958
+HylTXn0qYX,We provide a theoretical algorithm for checking local optimality and escaping saddles at nondifferentiable points of empirical risks of two-layer ReLU networks.,0.993247389793396
+BkTQ8UckG,We present a new technique for learning visual-semantic embeddings for cross-modal retrieval.,0.9979127049446106
+B1D6ty-A-,"We present DANTE, a novel method for training neural networks, in particular autoencoders, using the alternating minimization principle.",0.9940702319145203
+ByzoVi0cFQ,"We develop new algorithms for estimating heterogeneous treatment effects, combining recent developments in transfer learning for neural networks with insights from the causal inference literature.",0.9885966181755066
+SkloDjAqYm,"We propose LeMoNADe, a new exploratory data analysis method that facilitates hunting for motifs in calcium imaging videos, the dominant microscopic functional imaging modality in neurophysiology.",0.9884888529777527
+rkxkHnA5tX,We propose a method for evaluating the suitability of imitation learning algorithms in a noisy and diverse demonstration set.,0.8693342804908752
+BJE-4xW0W,We introduce causal implicit generative models (CiGMs): models that allow sampling from not only the true observational but also the true interventional distributions.,0.9966604709625244
+H1-IBSgMz,Self-normalizing discriminative models approximate the normalized probability of a class without having to compute the partition function.,0.9920124411582947
+By5SY2gA-,"We propose techniques to incorporate affect lexica, which capture fine-grained information about a word's psycholinguistic and emotional orientation, into the training process of Word2Vec SkipGram, Word2Ve CBOW and GloVe methods using a joint learning approach.",0.9840521812438965
+SygxYoC5FX,We present an unsupervised method that optimizes a trainable global bias as a representation expectation for each node in the given graph.,0.9966944456100464
+B1e9csRcFm,"We prove that the generalization of linear graph embedding methods is not due to the dimensionality constraint as commonly believed, but rather the small norm of embedding vectors.",0.7454555034637451
+S1fUpoR5FQ,We propose a quasi-hyperbolic momentum algorithm that can recover momentum SGD in a variety of settings.,0.5971362590789795
+HkpRBFxRb,"We propose a generalization of lambda-returns called Confidence-based Autodidactic Returns (CAR), which significantly outperforms the use of n-step returns in RL.",0.9634049534797668
+B14rPj0qY7,"We proposed a new driving model which is composed of perception module for see and think and driving module for behave, and trained it with multi-task perception knowledge for better generalization and accident explanation abil-",0.9853179454803467
+HJeKCi0qYX,We introduce a generic methodology allowing graph embedding methods to scale to large graphs without modifying them.,0.9936807155609131
+BJgd7m0xRZ,"We propose a defense mechanism that is based on a contraction of the data, and we test its effectiveness using OCSVMs.",0.9924600720405579
+ByED-X-0W,We propose a layer-wise learning of stochastic neural networks (SNNs) in an information-theoretic perspective.,0.9967417120933533
+SyuWNMZ0W,We construct an unbiased estimator for the square of the MMD between the two distributions.,0.9864879250526428
+Bk6qQGWRb,"We propose Bayesian Deep Q-Network  (BDQN), a  practical Thompson sampling based Reinforcement Learning (RL) Algorithm.",0.9952464699745178
+B1GHb2RqYX,We propose a new weight-learning efficient variant of the traditional CNN.,0.9963255524635315
+r1GbfhRqF7,We propose a novel kernel learning framework for time series CPD that optimizes a lower bound of test power via an auxiliary generative model.,0.9937374591827393
+r1-4BLaQz,We adapt notions of similarity using weak labels over multiple hierarchical levels to boost classification performance.,0.9932802319526672
+BkCV_W-AZ,We propose a new deep reinforcement learning algorithm based on counterfactual regret minimization that iteratively updates an approximation to a cumulative clipped advantage function and is robust to partially observed state.,0.9974257349967957
+BJxmXhRcK7,"We propose a novel generalized latent-subspace based knowledge sharing mechanism for linking task-specific models, namely tensor ring multi-task learning (TRMTL).",0.9965052604675293
+SkE6PjC9KX,We introduce attention into neural processes to learn to map a context set of observed input-output pairs to a distribution over regression functions.,0.9438509941101074
+B1spAqUp-,Pixel deconvolutional layer can be used to replace any deconvolved layer in a plug-and-play manner without compromising the fully trainable capabilities of original models.,0.972928524017334
+ry-TW-WAb,"We propose a variational inference problem for neural networks that leads to a multi-modal, sparse posterior distribution over weights.",0.9880311489105225
+rygo9iR9F7,"We propose a progressive weight pruning approach based on ADMM (Alternating Direction Method of Multipliers), a powerful technique to deal with non-convex optimization problems with potentially combinatorial constraints.",0.9878693222999573
+r1efr3C9Ym,We present a new deep learning architecture for addressing the problem of supervised learning with sparse and irregularly sampled multivariate time series.,0.9953634738922119
+rJlpUiAcYX,"We introduce an analytic distance function for moderately sized point sets of known cardinality that is shown to have very desirable properties, both as a loss function as well as a regularizer for machine learning applications.",0.9820539951324463
+Hkc-TeZ0W,"We introduce a hierarchical model for efficient placement of computational graphs onto hardware devices, especially in heterogeneous environments with a mixture of CPUs, GPUs, and other computational devices.",0.9754828214645386
+SJLlmG-AZ,We propose a model of motion based on elementary group properties of transformations and use it to train a representation of image motion.,0.9915715456008911
+BJjBnN9a-,"We propose a new method for learning continuous convolutional filters, which can be used to learn a new set of RKHS.",0.7596185803413391
+Bygh9j09KX,"We show that ImageNet-trained CNNs are strongly biased towards recognising textures rather than shapes, which is in stark contrast to human behavioural evidence and reveals fundamentally different classification strategies.",0.9854941368103027
+ryeHw1vjiQ,"We exploited different strategies to provide prior knowledge to commonly used generative modeling approaches aiming to obtain speaker-dependent low dimensional representations from short-duration segments of speech data, making use of available information of speaker identities.",0.9930383563041687
+HyZoi-WRb,We propose a new approach to estimate the marginal likelihood of variational autoencoders based on the importance-weighted bounds.,0.9200562238693237
+B1G6uM0WG,We present a framework that demonstrates a more structured and data efficient alternative to end-to-end complete policy learning on problems where the high-level policy is hard to formulate using traditional optimization or rule based methods but well designed low-level controllers are available.,0.9848096966743469
+BkgWHnR5tm,We propose a graph search algorithm that performs evolution search in graph space and perform evolution search on current candidates.,0.9744250774383545
+SJlhPMWAW,We propose a variational autoencoder for deep learning on graphs.,0.990476131439209
+rJiaRbk0-,"We propose a new way for LSTM training, which pushes the values of the gates towards 0 or 1.",0.9967967867851257
+B1lMMx1CW,"We present a personalized recommender system using neural network for recommending new products, such as eBooks, audio-books, Mobile Apps, Video and Music.",0.5905631184577942
+Hylnis0qKX,We propose a novel image restoration framework that can be generalized to multiple imaging tasks.,0.6350082159042358
+BJJLHbb0-,We present a Deep Autoencoding Gaussian Mixture Model (DAGMM) for unsupervised anomaly detection on multi- or high-dimensional data.,0.9968510270118713
+rkzfuiA9F7,"We introduce the Projective Subspace Networks (PSN), a deep learning paradigm that learns non-linear embeddings from limited supervision.",0.9974585175514221
+HyxGB2AcY7,We investigate whether learning contingency-awareness and controllable aspects of an environment can lead to better exploration in reinforcement learning.,0.9969912767410278
+Syr8Qc1CW,We proposed a supervised algorithm called DNA-GAN trying to disentangle different attributes of images.,0.9980924725532532
+B1e4wo09K7,"We introduce a probabilistic modelling approach that learns to represent data with two separate deep representations: an invariant representation that encodes the information of the class from which the data belongs, and an equivariant representation (equivariant in the sense that the representation varies naturally with symmetry transformations).",0.9887387752532959
+H1aIuk-RW,We propose a new active learning algorithm for CNNs that can be used to learn a large set of labeled images.,0.8785803914070129
+ryf7ioRqFX,We introduce a simple stochastic algorithm (\textit{h}-detach) that is specific to LSTM optimization and targeted towards addressing this problem.,0.9951021671295166
+Skgge3R9FQ,We propose an augmented CNN with an extra output class that can be used to train black-box adversarial models.,0.10177511721849442
+ByJWeR1AW,We systematically analyze the effect of data augmentation on some popular architectures and conclude that data augments alone can achieve the same performance or higher as regularized models.,0.996369481086731
+CZ938F7zVF,"We present Gedit, a system of on-keyboard gestures for convenient mobile text editing.",0.9978095889091492
+r1kj4ACp-,We propose a recursive solution to maximum entropy principle for deep learning generalization.,0.9759446382522583
+SyNvti09KQ,We propose a novel approach to reinforcement learning that leverages a task-independent intrinsic reward function trained on peripheral pulse measurements that are correlated with human autonomic nervous system responses.,0.9976039528846741
+H1xmqiAqFm,"We investigate the behavior of CNNs under class-dependently simulated label noise, which is generated based on the conceptual distance between classes of a large dataset (i.e., ImageNet-1k). Contrary to previous knowledge, we reveal CNNs are more robust to such class-dependent label noise than class",0.744581401348114
+H1xQVn09FX,We demonstrate that GANs can in fact generate high-fidelity and locally-coherent audio by modeling log magnitudes and instantaneous frequencies with sufficient frequency resolution in the spectral domain.,0.9950658082962036
+HklZOfW0W,We propose a novel approach for learning graph representation of the data using gradients obtained via backpropagation.,0.9951058626174927
+1qdNTwXpgE,We propose a 3D authoring tool for the assembly line and its AR annotations.,0.9556933641433716
+rylIy3R9K7,"We show that GANs are not only hard to train, but also hard to learn.",0.9340320229530334
+BkabRiQpb,"We show how to construct agents that cooperate with pure cooperators, avoid exploitation by pure defectors, and incentivize cooperation from the rest.",0.8291447162628174
+rJxMM2C5K7,We propose dithered quantization for distributed training and show that it can reduce communication cost significantly without requiring the workers communicating extra bits.,0.9636368155479431
+S1lIMn05F7,"We propose a new defense mechanism against adversarial attacks, using a generative adversarial network~(GAN) framework.",0.9974780678749084
+rkA1f3NpZ,We propose to use ensemble methods as a defense strategy against adversarial attacks.,0.9973188042640686
+HJ39YKiTb,We propose the Associative Conversation Model that generates visual information from textual information and uses it for generating sentences in order to utilize visual information in a dialogue system without image input.,0.9929776787757874
+HkzyX3CcFQ,We designed a Contextual Recurrent Convolutional Network with this feature embedded in a standard CNN structure.,0.9934697151184082
+BJlrSmbAZ,We propose a method for Bayesian inference that relies on batch normalization.,0.980332612991333
+BkeSusCcYm,We propose to improve convergence by combining locally computed gradient with sparse global gradient exchanged over the network.,0.9918566942214966
+S1fNJhRqFX,We establish the relation between Distributional RL and the Upper Confidence Bound (UCB) approach to exploration.,0.9941275119781494
+HkzL4hR9Ym,We introduce community-based autoencoders in which multiple encoders and decoders collectively learn representations by being randomly paired up on successive training iterations.,0.995949387550354
+HJMjW3RqtX,"MetaMimic is a deep RL algorithm that learns policies for high-fidelity one-shot imitation of diverse novel skills, and (ii) policies that enable the agent to solve tasks more efficiently than the demonstrators.",0.8685277104377747
+HyN-M2Rctm,We propose a more flexible normalization method that outperforms batch normalization in several experiments.,0.9592704176902771
+S1gUsoR9YX,We propose a distillation-based approach to boost the accuracy of multilingual machine translation.,0.9983330368995667
+Hk91SGWR-,We investigate the role of human priors for solving video games.,0.9980078339576721
+HyBbjW-RW,We propose a novel approach to parallelizable hyperparameter optimization via random search.,0.6793877482414246
+rye7IMbAZ,We propose a new fine-tuning scheme that promotes the similarity of the final solution with the pre-trained model.,0.42163366079330444
+HyI5ro0pW,We propose a new method to improve the network computation efficiency by modifying the fully connected layer.,0.9863275289535522
+B1QRgziT-,We propose a novel weight normalization technique called spectral normalization to stabilize the training of the discriminator.,0.9966359734535217
+rygrBhC5tQ,We propose a method that can learn transition policies which effectively connect primitive skills to perform sequential tasks without handcrafted rewards.,0.9949770569801331
+H1eiZnAqKm,"We develop a theoretical framework to analyze one and two dimensional GRUs as a continuous dynamical system, and classify the dynamical features obtainable with such system.",0.9948187470436096
+HkM3vjCcF7,We propose a Multi-Scale Stacked Hourglass (MSSH) network to high-light the differentiation capabilities of each Hourglass network for human pose estimation.,0.9956194758415222
+H1a37GWCZ,We propose a new unsupervised method for learning general-purpose sentence embeddings.,0.9923072457313538
+HkmaTz-0W,"We explore the structure of neural loss functions, and the effect of loss landscapes on generalization, using a range of visualization methods.",0.9952946305274963
+B1xOYoA5tQ,We propose a new approach to improve the robustness of deep models by leveraging multi-way encoding.,0.9918665289878845
+B1l8BtlCb,"We introduce a model that avoids autoregressive property and produces its outputs in parallel, allowing an order of magnitude lower latency during inference time.",0.9570196270942688
+Bys4ob-Rb,"We propose a method based on a semidefinite relaxation that outputs a certificate that for a given network and test input, no attack can force the error to exceed a certain value.",0.9839962124824524
+BJgvg30ctX,We propose an information-based optimization problem for supervised classification.,0.9641408920288086
+BkMqUiA5KX,"We propose a novel approach to latent variable modelling, based on an objective that encourages a perfect reconstruction by tying a stochastic autoencoder with a variational autoencoders (VAE).",0.14325831830501556
+H1GaLiAcY7,"We propose a new domain division algorithm to split the testing instances into known, unknown and uncertain domains, and conduct recognition tasks in each domain.",0.9045450687408447
+HyWrIgW0W,We prove that SGD minimizes an average potential over the posterior distribution of weights along with an entropic regularization term.,0.9931241869926453
+BkisuzWRW,Zero-shot imitation learning with a novel forward consistency loss,0.7311173677444458
+HyHmGyZCZ,We provide comparison between two methods of counterfitting and counterfitting for post process improvements to the baseline DSM vectors.,0.9587218165397644
+S19dR9x0b,We introduce alternating quantization for recurrent neural networks.,0.6760473251342773
+rkGZuJb0b,We employ MERA as a replacement for linear layers in a neural network and test this implementation on the CIFAR-10 dataset.,0.9947450160980225
+SJgzJh0qtQ,"We propose a structured, explainable, and efficient approach towards optimal model design that maximizes accuracy while keeping the computational costs tractable.",0.03901786357164383
+rk4Wf30qKQ,"We propose and evaluate a new attack that reconstructs the architecture of deep neural networks by using internal information extracted via Flush+Reload, a cache side-channel technique.",0.14874482154846191
+HyM7AiA5YX,We propose a new training paradigm that maximizes the likelihood of the ground-truth class while neutralizing the probabilities of the complement classes.,0.9881582856178284
+rJxA-h05KQ,We extend softmax layer with an additional constant input to represent the uncertainty of the network.,0.9795032739639282
+ByCPHrgCW,"We propose a novel method for bootstrapping homomorphic encryption, which can be used to perform deep learning functions with arbitrary model depths.",0.9875361323356628
+r1xwKoR9Y7,We introduce a system called GamePad that can be used to explore the application of machine learning methods to theorem proving in the Coq proof assistant.,0.9974679946899414
+ryM_IoAqYX,We show that weight quantization slows convergence by a factor related to the weight quantizing resolution and dimension.,0.8810541033744812
+Bkxbrn0cYX,We propose a novel regularizer that encourages representation sparsity by means of neural inhibition.,0.9968134760856628
+ryGpEiAcFQ,We built a synapse model with a nonlinear synapse function of excitatory and inhibitory channel probabilities.,0.9935396313667297
+SJd0EAy0b,We propose a multi-shot unsupervised learning framework for graph embedding learning.,0.9768530130386353
+BywyFQlAW,"We introduce and study minimax curriculum learning (MCL), a new method for adaptively selecting a sequence of training subsets for a succession of stages in machine learning.",0.9956852197647095
+SyELrEeAb,We propose a class of causal models that can capture highly nonlinear relationships and interactions between multiple causes.,0.9162001609802246
+rkzcvoA9YX,"We propose to exploit the object-level relation to learn the image relation feature, which is converted into a distance directly.",0.996969997882843
+H1glKiCqtm,"We show that using pre-trained embeddings on code tokens provides the same benefits as it does to natural languages, achieving: over 1.9x speedup, 5\% improvement in test loss, 4\% improved in F1 scores, and resistance to over-fitting.",0.9971729516983032
+Hyfn2jCcKm,"We introduce Autodidactic Iteration, an API algorithm that overcomes the problem of sparse rewards by training on a distribution of states that allows the reward to propagate from the goal state to states farther away.",0.9955436587333679
+rkaqxm-0b,"We introduce an end-to-end differentiable model for interpreting compositional questions, which is inspired by formal approaches to semantics.",0.9977626800537109
+ryG6xZ-RZ,"We present DLVM, a modular and more generic compiler infrastructure with a linear algebra intermediate representation, algorithmic differentiation by adjoint code generation, domain- specific optimizations and a code generator targeting GPU via LLVM.",0.9898703694343567
+HJPSN3gRW,We introduce a new 2D environment for an agent to jointly learn visual and textual modalities.,0.9967484474182129
+B14TlG-RW,"We propose a new Q\&A architecture called QANet, which does not require recurrent networks:  Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self attention models global interactions.",0.997368574142456
+Hkbd5xZRb,We propose a new class of spherical CNNs that are both expressive and rotation-equivariant.,0.49342378973960876
+ByaQIGg0-,We propose a novel method that makes use of deep neural networks and gradient decent to perform automated design on complex real world engineering tasks.,0.9934600591659546
+BkA7gfZAb,We investigate whether replacing the maximization part with its dual improves the quality of the resulting alignment and explore its connections to Maximum Mean Discrepancy.,0.9960177540779114
+Sk6fD5yCb,We show how Convolutional Neural Networking (CNN) can be implemented using binary-based representations.,0.9824569821357727
+r1GaAjRcF7,We propose a differentiable greedy network that is trainable with gradient based methods yet achieves near optimal performance via submodular optimization.,0.9664956331253052
+H1ERcs09KQ,"We introduce hierarchically clustered representation learning (HCRL), which simultaneously optimizes representation learning and hierarchical clustering in the embedding space.",0.996301531791687
+BJeapjA5FX,We introduce a novel geometric perspective and unsupervised model augmentation framework for transforming traditional deep (convolutional) neural networks into adversarially robust classifiers.,0.9677560329437256
+HyunpgbR-,We propose a hierarchical approach to structured exploration to improve the sample efficiency of on-policy exploration in large state-action spaces.,0.9964141845703125
+ryfMLoCqtQ,"We develop an analytic theory of the nonlinear dynamics of generalization in deep linear networks, both within and across tasks.",0.9948086142539978
+r1Kr3TyAb,We show that Batch normalization can be used to confine the gradient variance to a certain range across residual blocks in backpropagation.,0.9932582378387451
+ryxSrhC9KX,"We estimated sparse, non-negative representations of objects using human behavioral judgments on images representative of 1,854 object categories.",0.991115927696228
+S1CChZ-CZ,We propose an agent that sits between the user and a black box QA system and learns to reformulate questions to elicit the best possible answers.,0.9906206130981445
+rJSr0GZR-,We propose to learn a proper prior from data for adversarial autoencoders (AAEs).,0.9975922703742981
+rJQDjk-0b,Unbiased Online Recurrent Optimization,0.9737629890441895
+rkxwShA9Ym,We present a deep learning-based method for super-resolving coarse (low-resolution) labels assigned to groups of image pixels into pixel-level (high-resolution).,0.9914191961288452
+SkGNrnC9FQ,We propose a novel framework for combining datasets via alignment of their associated intrinsic dimensions.,0.9938631057739258
+BJgWl3A5YX,"We propose a method for uncovering strong agents, consisting of a good combination of a body and policy, based on combining RL with an evolutionary procedure.",0.9905269145965576
+B16yEqkCZ,"We introduce intrinsic fear, a learned reward shaping that accelerates deep reinforcement learning and guards oscillating policies against periodic catastrophes.",0.9959362745285034
+SkfhIo0qtQ,We propose a novel volumetric convolution operation that can effectively convolve arbitrary functions in B^3.,0.996263325214386
+BJemQ209FQ,We propose a novel meta-learning framework that can generate unbounded amount of experience for an agent to learn from.,0.9055182337760925
+S1XXq6lRW,We propose a method for sharing label information across languages by means of a language independent text encoder.,0.9958680868148804
+HJeq43AqF7,We propose a fully unsupervised method for discovering syntactic representations of text that simultaneously learns representations for constituents within the induced tree.,0.5395119190216064
+H1MczcgR-,"We show that meta-optimization chooses too small a learning rate by multiple orders of magnitude, even when run with a moderately long time horizon.",0.9933714866638184
+SJxyZ81IYQ,"We propose a new approach to image captioning, which factorizes the text of the caption into two stages: (1) extracting an explicit semantic represen-mask tation from the given image; and (2) constructing the caption based on a recursive structure.",0.8834938406944275
+ByxkijC5FQ,"We propose neural persistence, a complexity measure for neural network architectures based on topological data analysis on weighted stratified graphs.",0.9968608617782593
+BkpiPMbA-,"We propose a new attack, OPTMARGIN, which generates adversarial examples robust to small perturbations.",0.9880512952804565
+SJIA6ZWC-,We train a neural network to output approximately optimal weights as a function of hyperparameters.,0.9951444268226624
+ryEquiR9KX,We propose a novel covariance estimator based on the Gaussian Process Latent Variable Model (GP-LVM).,0.9979462027549744
+rkeZRGbRW,We study how variance in the discriminator's output affects the generator's ability to learn the data distribution.,0.9954298734664917
+rywHCPkAW,"We introduce NoisyNet, a deep reinforcement learning agent with parametric noise added to its weights, and show that the induced stochasticity of the agent’s policy can be used to aid efficient exploration.",0.9981808662414551
+ry6-G_66b,We propose a fully differentiable neural network that learns to localize efficiently.,0.995914876461029
+r1gGpjActQ,We propose to leverage the hints from a well-trained ART model to train the NART model to perform machine translation.,0.9746651649475098
+SyxknjC9KQ,We propose a new architecture for neural networks that can approximate any continuous function requiring less number of parameters than what is necessary for normal neural networks.,0.9493668079376221
+HyevnsCqtQ,Integral Pruning with Weight Pruning,0.9503687024116516
+SkNSOjR9Y7,We propose an easy method to train VAEs �latent variable models with binary or categorically valued latent representations.,0.8770235180854797
+SkGQujR5FX,"We propose DANA, a novel approach that scales out-of-the-box to large clusters using the same hyperparameters and learning schedule optimized for training on a single worker, while maintaining similar final accuracy without additional overhead.",0.9855049252510071
+B1x-LjAcKX,We propose a novel approach to train deep neural networks by unlocking the layer-wise dependency of backpropagation training.,0.9950709342956543
+rkrWCJWAW,We introduce a new algorithm that keeps the computational benefits of \emph{Backpropagation Through Time} while relieving the need for a complete backtrack through the whole data sequence at every step.,0.8979682922363281
+rke8ZhCcFQ,We investigate methods attacking graph convolutional networks by adding fake nodes.,0.17775927484035492
+ByldlhAqYQ,We propose a recurrent recurrent transfer learning method to achieve cell-level information transfer.,0.9549073576927185
+SJGvns0qK7,We propose a new policy optimization algorithm that encodes the belief distribution independently from the observable state.,0.6076188087463379
+HkxKH2AcFm,"We propose a black-box metric for evaluation of unconditional image generation, which can measure generalization.",0.9910115003585815
+Bym0cU1CZ,"We propose jointly modeling dialogue act selection and response generation, and perform learning with human-human conversations tagged with a dialogue act classifier and a reinforcement approach to further optimizing the model for long-term conversation.",0.9945816397666931
+H1VjBebR-,We propose a new mapping algorithm that captures semantic alignment in a semantic way.,0.8532110452651978
+HJgeEh09KQ,We present a novel approach for the certification of neural networks against adversarial perturbations which combines scalable overapproximation methods with precise (mixed integer) linear programming.,0.982742428779602
+rJxEso0osm,"We investigate the interplay between expressivity and interpretability in HMMs and RNNs, both through theoretical derivations and empirical hybridization.",0.991071343421936
+ByzvHagA-,"We propose a novel regularization method that penalize covariance between dimensions of the hidden layers in a network, something that benefits the disentanglement.",0.9966244697570801
+r1gKNs0qYX,A training and recognition scheme for neural networks that learns class-wise parameter values and applies them to feature filters.,0.9694976806640625
+S1lPShAqFm,We study the effect of network structure (depth and width) on halting time and show that larger models can potentially train faster despite the increasing computational requirements of each training step.,0.9971688389778137
+ByloJ20qtm,We train a model that jointly and directly localizes and repairs variable-misuse bugs.,0.9919020533561707
+Skvin0GWM,"We propose a unified treatment of classification and clustering, and propose a hierarchical framework that can be used to achieve better clustering performance.",0.9928850531578064
+S1E3Ko09F7,We develop a new algorithm for instancewise feature importance scoring on black-box models.,0.9612051844596863
+HJXOfZ-AZ,We study the emergence of local codes in neural networks and show that they are not interpretable localist representations.,0.27285462617874146
+By03VlJGG,"We propose a multimodal embedding using different neural encoders for this variety of data, and combine with existing models to learn embeddings of the entities.",0.9964575171470642
+r1uOhfb0W,We propose a two-stage method to learn Sparse Structured Ensembles (SSEs) for neural networks.,0.9967191815376282
+HkxStoC5F7,"We introduce a new framework for data efficient and versatile learning. Specifically: 1) We develop ML-PIP, a general framework for Meta-Learning approximate Probabilistic Inference for Prediction.",0.9953280091285706
+rkx0g3R5tX,We propose a relaxation of softmax to allow for the use of a new negative sampling and weighting scheme for language modeling and matrix factorization.,0.9510173201560974
+H1GWAoRcKX,We propose a student-teacher network which can reduce the inference time by upto 30% with a negligent drop in the performance.,0.9918097853660583
+rylSzl-R-,We propose a unified approach to GANs and VAEs to learn generative models.,0.974565327167511
+r1gnQ20qYX,We present a novel interpretable model for healthcare that iteratively uses rule lists to guide a neural network to learn representative data prototypes.,0.9454389214515686
+HyMuaiAqY7,We propose a GAN that generates photo-realistic images by enforcing structure on the latent generative space using similar approaches in \cite{deligan}.,0.9975044131278992
+Bk346Ok0W,"We propose a new architecture that applies an attentional mechanism not on temporal and spatial regions of the input, but on sensor selection for multi-sensor setups.",0.9414165616035461
+HJcjQTJ0W,We propose a cloud-based DNN splitting scheme that enables deep learning on large datasets.,0.7517034411430359
+B1ZZTfZAW,"We propose a novel GAN and Recurrent Conditional GAN to produce realistic real-valued multi-dimensional time series, with an emphasis on their application to medical data.",0.061123188585042953
+NxvF-PleYy,We present empirical evidence about how visual variables influence how users perceive different emphasis effects.,0.9006081819534302
+ByquB-WC-,"We introduce Related Memory Network, an end-to-end neural network architecture exploiting both memory network and relation network structures.",0.9955743551254272
+Hk2MHt-3-,We propose a branched architecture for deep convolutional networks.,0.979220986366272
+HyfyN30qt7,We train quantized neural networks by noise injection and a learned clamping method to improve the accuracy of the results.,0.8640024662017822
+HygBZnRctX,"We propose Leap, a framework that achieves transfer learning across learning processes.",0.9971014857292175
+ryj0790hb,We propose a method called Deep Adaptation Networks (DAN) that constrains newly learned filters to be linear combinations of existing ones.,0.9940525889396667
+SklzIjActX,"We present a general method for 8-bit low precision inference of convolutional neural networks, including 1) channel-wise scale factors of weights, especially for depthwise convolution, 2) Winograd convolution and 3) topology-wise 8-bits support.",0.995904266834259
+rJxHsjRqFQ,We introduce hyperbolic geometry on the embeddings used to compute the ubiquitous attention mechanisms for different neural networks architectures.,0.992909848690033
+rkc_hGb0Z,We present a method for evaluating the sensitivity of deep reinforcement learning (RL) policies.,0.9956139326095581
+ByrZyglCb,"We provide a quantitative analysis of the robustness of classifiers to universal perturbations, and draw a formal link between the robustnesses to universal imperceptibility, and the geometry of the decision boundary.",0.04617147520184517
+HkgSEnA5KQ,"We propose an interactive formulation of the task specification problem, where iterative language corrections are provided to an autonomous agent, guiding it in acquiring the desired skill.",0.9944785833358765
+Byldr3RqKX,We analyze the modularity of deep generative models such as Generative Adversarial Networks (GANs) and VAEs and use their activation maps to manipulate the properties of complex empirical data.,0.4229357838630676
+Syx6bz-Ab,We propose a deep neural network for translating natural language questions to corresponding SQL queries.,0.9937791228294373
+rkMk9j0qYm,"We introduce Explainable Adversarial Learning, ExL, an approach for training neural networks that are intrinsically robust to adversarial attacks.",0.9948721528053284
+HyNmRiCqtm,We propose a method which can visually explain the classification decision of deep neural networks (DNNs).,0.9971113204956055
+SyxYEoA5FX,We show how the inverse of ReLU-layers can be interpreted as a geometric interpretation of the properties of the inverse.,0.6023764610290527
+HJguLo0cKQ,"We investigate how adversarial training of the ensemble increases the number of parameters in adversarial models, and in particular that increasing the number can make the models produce extremely inaccurate outputs.",0.24373166263103485
+ry8dvM-R-,We introduce a novel neural network and training algorithm for multi-task learning.,0.9914222359657288
+H1Y8hhg0b,We propose a practical method for $L_0$ norm regularization for neural networks: pruning the network during training by encouraging weights to become exactly zero.,0.9936783909797668
+rJg4YGWRb,"We propose a novel graph neural network that removes all the intermediate fully-connected layers, and replaces the propagation layers with attention mechanisms that respect the structure of the graph.",0.9921156764030457
+rkxkr8UKuN,We propose a method to train a generative model that can match the target distribution in the latent space.,0.9943925738334656
+HJxeWnCcF7,"We propose a new method for learning embeddings in a product manifold combining multiple copies of these model spaces (spherical, hyperbolic, Euclidean), providing a space of heterogeneous curvature suitable for a wide variety of structures.",0.980640172958374
+rywDjg-RW,We propose a novel method for synthesizing user-intended programs from a small number of input-output exam-based programs using deductive logic.,0.8559209108352661
+SkeJ6iR9Km,We propose a new approach to infer sparse representations with generally intractable non-linear probabilistic models.,0.9926088452339172
+BJQPG5lR-,We propose a simple method to address the degradation problem in deep learning.,0.9951335787773132
+Sk0pHeZAW,We propose methods for optimizing stochastic variance reduced gradients (SVRG) optimization on non-convex problem.,0.976920485496521
+Hy8hkYeRb,We propose a novel algorithm to build a deep generative model using predictive coding that can be used to infer latent representations about the stimuli received from the external environment.,0.01604660600423813
+rynniUpQM,We propose a new approach to image recognition that learns to produce a mental image of the input image as internal representation of a certain category of input data distribution.,0.8371331095695496
+BJgVaG-Ab,We propose a framework that combines techniques in \textit{formal methods} with \textits{hierarchical reinforcement learning} (HRL).,0.9878402352333069
+HylDpoActX,We propose a method for weight and activation quantization that is scalable in terms of quantization levels (n-ary representations) and easy to compute while maintaining the performance close to full-precision CNNs.,0.9947611689567566
+rkevMnRqYQ,We use Maximum Causal Entropy IRL to infer side effects that should be avoided as well as preferences for how the environment should be organized.,0.8817178606987
+SkHkeixAW,"We propose a novel, systematic, unifying taxonomy to categorize existing methods.",0.9906328916549683
+S1WRibb0Z,"We prove that deep convolutional networks are expressive power more than shallow networks, but the theory behind this phenomenon is only starting to catch up with the practice. Numerous works show that depth is the key to this efficiency.",0.9870680570602417
+H1l7bnR5Ym,"We propose a novel probabilistic framework for GANs, ProbGAN, which iteratively learns a distribution over generators with a carefully crafted prior.",0.9895341992378235
+Hk-FlMbAZ,We propose a ``goodness property'' of models which states that good and bad points are separable and can be used to defend against attacks that the base model fails on.,0.9827011227607727
+ryxjH3R5KQ,We propose a novel model pruning method to solve the neural architecture search problem.,0.9794098138809204
+S1XolQbRW,"We propose two new compression methods, which jointly leverage weight quantization and distillation of larger teacher networks into smaller student networks.",0.9951601624488831
+Bkl1uWb0Z,We propose a set of models that learn to induce dependency trees on the source side and learn to use that information on the target side.,0.9849684834480286
+H1xk8jAqKQ,We use a single demonstration to construct a curriculum for a given task.,0.9827839136123657
+ByJDAIe0b,We propose a novel external memory mechanism which uses a reservoir sampling procedure to maintain an external memory consisting of a fixed number of past states.,0.2916008234024048
+rkMt1bWAZ,We achieve bias-variance decomposition for Boltzmann machines using an information geometric formulation.,0.9926016926765442
+HkxF5RgC-,We propose a new algorithm for sparse recurrent neural networks that can accelerate their recurrent layers by up to 3x.,0.9674839377403259
+S1D8MPxA-,"We propose a new class of sparse matrix representation utilizing Viterbi algorithm that has a high, and more importantly, fixed index compression ratio regardless of the pruning rate, is proposed.",0.9946618676185608
+SJJQVZW0b,We propose a novel framework for efficient multi-task reinforcement learning.,0.9949424862861633
+Skz3Q2CcFX,We propose a new methodology for analyzing embeddings that uses algebraic formulae to represent the axes of the projection.,0.2721359431743622
+SyG1QnRqF7,We propose a principled approach to train deep networkswith significantly  improved  resistance  to  large  variations  between  training  andtesting data.,0.9973982572555542
+S18Su--CW,"We propose a simple modification to standard neural network architectures, thermometer encodings, which significantly increases the robustness of the network to adversarial examples.",0.922040581703186
+ryeX-nC9YQ,We prove dimension-independent bounds for low-precision training algorithms that use fixed-point arithmetic.,0.9979775547981262
+Skk3Jm96W,Meta reinforcement learning algorithms for exploration,0.9697312712669373
+ryxhB3CcK7,"We propose a new class of probabilistic neural-symbolic models for visual question answering (VQA) that provide interpretable explanations of their decision making in the form of programs, given a small annotated set of human programs.",0.9946644306182861
+Hki-ZlbA-,We propose a method for evaluating the effectiveness of a network's defenses against adversarial examples.,0.9317147731781006
+HkfPSh05K7,We propose a novel multi-step reasoning framework for open-domain question answering that uses fast nearest neighbor search to scale to corpora containing millions of paragraphs.,0.9844123721122742
+BJgFcj0qKX,"We propose stacked u-nets, which iteratively combine features from different resolution scales while maintaining resolution.",0.9914372563362122
+rk3pnae0b,We propose a novel neural network that is able to generate topic-specific questions without requiring any additional annotations.,0.9962313771247864
+Hyx6Bi0qYm,We propose a novel computational approach to stabilize the brain-machine interface over significantly long times.,0.9933633804321289
+ByZmGjkA-,We propose a novel way to visualise and analyse semantic representation in grounded language learning agents that yields a plausible computational account of the observed effects.,0.9887011051177979
+rJe10iC5K7,"We propose a novel formulation that simultaneously learns a hierarchical, disentangled object representation and a dynamics model for object parts from unlabeled videos.",0.9968365430831909
+BkgGmh09FQ,"We perform a systematic study of system resource efficiency for super-resolution, within the context of a variety of architectural and low-precision approaches originally developed for discriminative neural networks.",0.15021485090255737
+r1gR2sC9FX,"We show that deep ReLU networks are biased towards low frequency functions, meaning that they cannot have local fluctuations without affecting their global behavior. Intuitively, this property is in line with the observation that over-parameterized networks find simple patterns that generalize across data samples.",0.993834376335144
+r1xQQhAqKX,We introduce a new model for embedding the information of each input in the embedding space and train it to represent uncertainty.,0.8935753107070923
+S16FPMgRZ,We introduce tensor contraction layers which can replace the ordinary fully-connected layers in a neural network.,0.9941905736923218
+B1ecYsqSuN,We propose a simple data augmentation technique to enable semi-supervised bilingual back-translation via neural machine translation.,0.5902075171470642
+SkeK3s0qKQ,We propose a new curiosity method which uses episodic memory to form the novelty bonus.,0.9970970153808594
+SkZxCk-0Z,We introduce a new dataset of logical entailments for the purpose of measuring models' ability to capture and exploit the structure of logical expressions against an entailment prediction task.,0.9923036098480225
+Hy-lXyDWG,We propose an efficient training methodology and incrementally growing a DCNN to allow new classes to be learned while sharing part of the base network.,0.9758247137069702
+HyUNwulC-,"We show that the training of recurrent neural networks with only linear dependencies can be parallelized over the sequence length using the parallel scan algorithm, leading to rapid training on long sequences even with a small minibatch size.",0.9921316504478455
+ByOExmWAb,We propose a novel GAN that fills in missing text conditioned on the surrounding context.,0.02883155643939972
+BJEOOsCqKm,We propose a novel novelty detection approach for texture synthesis that can be used to detect visual anomalies.,0.9754178524017334
+r1kjEuHpZ,"We propose a new type of regularization approach that encourages the supports of weight vectors in RL models to have small overlap, by simultaneously promoting near-orthogonality among vectors and sparsity of each vector.",0.14560891687870026
+SJcKhk-Ab,We prove that learnable gates in a recurrent model formally provide \emph{quasi-invariance to general time transformations} in the input data.,0.9969308972358704
+HJewuJWCZ,We propose a new approach to teach a deep neural network that uses the learning to teach techniques to improve the performance of the teacher.,0.02086474746465683
+H1faSn0qY7,"We present DL2, a system for training and querying neural networks with logical constraints.",0.9957467913627625
+ByOnmlWC-,Genetic policy optimization is a new genetic algorithm for sample-efficient deep policy optimization.,0.9961622953414917
+HyzMyhCcK7,We propose a principled method for quantizing neural networks that optimizes it via the prox-gradient method.,0.9892871379852295
+Hkfmn5n6W,We show that the volume of differentiable local minima in a multilayer neural network is exponentially vanishing in comparison with the same volume of global minima.,0.9838107824325562
+BJzVUj0qtQ,Attention-invariant attack method to generate more transferable adversarial examples,0.9943812489509583
+r1RQdCg0W,"We present Merged-Averaged Classifiers via Hashing (MACH) for $K$-classification with large $K$. Compared to traditional one-vs-all classifiers that require $O(Kd)$ memory and inference cost, MACH only need $O(\log{",0.8281645774841309
+SyzKd1bCW,"We introduce a general framework for learning low-variance, unbiased gradient estimators for black-box functions of random variables, based on gradients of a learned function.",0.9964942336082458
+BJehNfW0-,We propose a novel test for estimating support size using the birthday paradox of discrete probability.,0.9555763006210327
+H1BLjgZCb,"Generate adversarial examples that lie on the data manifold, by searching in semantic space of dense and continuous data representation, utilizing the recent advances in generative adversarial networks.",0.9870542883872986
+HyMTkQZAb,We extend the K-FAC method to handle RNNs by introducing a novel approximation to the FIM for RNN optimization tasks.,0.8582536578178406
+ByGuynAct7,"We propose a new type of prior distributions for convolutional neural networks, deep weight prior (DWP), that exploit generative models to encourage a specific structure of trained convolutionals e.g., spatial correlations of weights.",0.6578725576400757
+HkanP0lRW,We use deep learning techniques to both successfully classify cells and generate a mask segmenting the cells/condition from the background.,0.9871204495429993
+SygeznA9YX,"We introduce a new dataset containing $9.7$ million question-answer pairs grounded over $270,000$ plots with three main differentiators.",0.9863131046295166
+HJJ23bW0b,We extend the theory of ORFs to Kernel Ridge Regression and show that Orthogonal PSRNNs are smaller and faster than PSRNs.,0.9767702221870422
+B1X0mzZCW,We propose a semi-supervised method for learning deep neural networks using weakly-labeled data.,0.9854678511619568
+B1MUroRct7,We propose a new online learning algorithm for supervised dimension reduction.,0.9963427186012268
+rkONG0xAW,We propose a storage-efficient learning model for embedded and mobile devices having a limited amount of on-chip data storage such as hundreds of kilo-Bytes.,0.9917635917663574
+rJL6pz-CZ,"We propose a method for learning a representation of the manifolds induced by identity-preserving transformations that can be used to increase robustness, reduce the training burden, and encourage interpretability in machine learning tasks.",0.991072952747345
+rkN2Il-RZ,We propose a new framework for learning abstract concepts in the visual domain.,0.9896243214607239
+S1GUgxgCW,We propose a Latent Topic Conversational Model (LTCM) that augments the seq2seq model with a neural topic component to better model human-human conversations.,0.9970911741256714
+Hkes0iR9KX,We propose a new architecture for graph clustering and a new approach to graph clustling.,0.9843295216560364
+HknbyQbC-,We propose a new attack strategy for generating adversarial examples with generative adversarial networks.,0.959998369216919
+SkNQeiRpb,We propose a new model for the rating prediction task in recommender systems which significantly outperforms previous state-of-the art models on a time-split Netflix data set.,0.9971689581871033
+HyzdRiR9Y7,We propose a parallel-in-time self-attentive recurrent sequence model which can be cast as a generalization of the Transformer model and which addresses these issues.,0.9887556433677673
+S1g9N2A5FX,We present a framework for interpretable continual learning (ICL).,0.9981443881988525
+H135uzZ0-,We train state-of-the-art visual understanding neural networks on ImageNet-1K dataset using SOTA CNNs and achieve highest reported accuracy using half precision,0.9923139214515686
+Hyig0zb0Z,A new speech recognition system leveraging a simple letter-based ConvNet acoustic model.,0.9961218237876892
+ry0WOxbRZ,"We propose Invariant Encoding Generative Adversarial Networks (IVE-GANs), a novel GAN framework that introduces such a mapping for individual samples from the data by utilizing features in the data which are invariant to certain transformations.",0.9951527118682861
+SJgsCjCqt7,We propose a method for learning the dependency structure between latent variables in deep latent variable models.,0.9947243332862854
+HkGTwjCctm,We propose a new deep neural network architecture that can efficiently identify both abrupt and gradual changes at multiple scales.,0.9967781901359558
+HkeyZhC9F7,We demonstrate how to learn efficient heuristics for automated reasoning algorithms through deep reinforcement learning.,0.9976840019226074
+ByuI-mW0W,We propose a simple procedure for assessing generative adversarial networks based on a principled consideration of what the actual goal of generalisation is.,0.9941695928573608
+SkBYYyZRZ,We propose to leverage automatic search techniques to discover new activation functions.,0.9968622922897339
+SkffVjUaW,We propose a novel bottom-up approach to expand the representation of convolutional neural networks in fixed-depth architectures.,0.972905695438385
+B1GMDsR5tm,"We propose Initialized Equilibrium Propagation, a method for gradient-based train- ing of neural networks which uses only local learning rules and, crucially, does not rely on neurons having a mechanism for back-propagating an error gradient.",0.9956197142601013
+BJfRpoA9YX,We propose a novel generative model architecture designed to learn representations for images that factor out a single attribute from the rest of the representation.,0.9920684099197388
+S1gQ5sRcFm,We introduce a model that overcomes these drawbacks by generating a latent representation from an arbitrary set of frames that can then be used to simultaneously and efficiently sample temporally consistent frames at arbitrary time-points.,0.9924924969673157
+S1EwLkW0W,We propose a novel method for optimizing ADAM using momentum- SGD.,0.9555248618125916
+S1uxsye0Z,We propose a novel framework to adaptively adjust the dropout rates for the deep neural network based on a Rademacher complexity bound.,0.9948430061340332
+Syeil309tX,"We propose two further optimized architectures for sensor fusion, which are significantly improved performance over the existing gated architectures.",0.8490967750549316
+SyMDXnCcF7,We develop a mean field theory for batch normalization in fully-connected feedforward neural networks.,0.9944851994514465
+HJMC_iA5tm,"We present NeuroSAT, a message passing neural network that learns to solve SAT problems after only being trained as a classifier to predict satisfiability.",0.9955580830574036
+SJiHXGWAZ,We propose a deep learning framework for traffic forecasting that incorporates both spatial and temporal dependency in the traffic flow.,0.996187150478363
+HkgxasA5Ym,We propose noise contrastive priors (NCPs) to obtain reliable uncertainty estimates of neural network predictions.,0.9934466481208801
+ByePUo05K7,"We show that CNNs do not have a bias towards selecting shapes as features, and that this bias is not a fundamental difference between human vision and CNNs.",0.08529951423406601
+ryRh0bb0Z,We propose a generative model and a conditional variant built on such a disentangled latent space.,0.9947230815887451
+BkrSv0lA-,"We extend a recently proposed loss-aware weight binarization scheme to ternarization, with possibly different scaling parameters for the positive and negative weights, and m-bit (where m > 2) quantization.",0.9854110479354858
+rJIgf7bAZ,We develop a policy gradient method for automatic learning of policies with options.,0.9972801208496094
+ByxF-nAqYX,A new approach to unsupervised feature selection that uses dimensionality reduction to characterize the local patterns.,0.9803104996681213
+H18WqugAb,"We introduce the SCAN domain, consisting of a set of simple compositional navigation commands paired with the corresponding action sequences.",0.9919914603233337
+S1xiOjC9F7,"We propose a novel Graph Matching Network model that, given a pair of graphs as input, computes a similarity score between them by jointly reasoning on the pair through a new cross-graph attention-based matching mechanism.",0.9756132960319519
+Bk7wvW-C-,We propose an asymmetric encoder-decoder architecture for unsupervised context-based sentence representation learning.,0.9801483154296875
+BygMAiRqK7,We propose an optimal transport GAN with the entropy regularization that maximizes a lower-bound on average sample likelihoods.,0.9331330060958862
+rklXaoAcFX,"We introduce geomstats, a Python package for Riemannian modelization and optimization over manifolds such as hyperspheres, hyperbolic spaces, SPD matrices or Lie groups of transformations.",0.9942023158073425
+H1goBoR9F7,We propose to execute dynamic and sparse graph (DSG) structure for compressive memory and accelerative execution during both training and inference.,0.9960761666297913
+Byx83s09Km,"We propose a novel, tractable approximation of IDS for deep Q-learning.",0.9982110261917114
+S1sqHMZCb,We propose a new model for structured policies for continuous control.,0.6655105948448181
+Hyl_vjC5KQ,We propose an HRL method that learns a latent variable of a hierarchical policy using mutual information maximization.,0.9936426877975464
+SkEqro0ctQ,We introduce a hierarchical interpretation of DNN predictions through a proposed method: agglomerative contextual decomposition (ACD).,0.9976341724395752
+rkl42iA5t7,We propose a compression algorithm that exploits the intrinsic correlation between filter responses within network layers to recommend a smaller network footprint.,0.9873132109642029
+rkMhusC5Y7,We propose a method to efficiently learn diverse strategies in reinforcement learning for query reformulation in the tasks of document retrieval and question answering.,0.9795223474502563
+ryepUj0qtX,We propose a new method for embedding network embeddings that maximally add information with respect to given structural properties.,0.990143895149231
+H1x-x309tm,"We propose a framework and a set of mild sufficient conditions that guarantee the convergence of the Adam-type methods, with a convergence rate of order   $O(\log{T}/ qrt{T})$ for non-convex stochastic optimization.",0.980726957321167
+rkhxwltab,A simple architecture for creating highly interpretable representations of the input data.,0.9868959784507751
+BJgrxbqp67,We extend the OpenAI Generative Pre-trained Transformer for Relation Extraction to improve the accuracy of relation extraction.,0.3835408687591553
+SySaJ0xCZ,"We propose a new method to automatically search for well-performing CNN architectures based on a simple hill climbing procedure whose operators apply network morphisms, followed by short optimization runs by cosine annealing.",0.9933248162269592
+H15RufWAW,"We propose GraphGAN, a generative model for graphs that enables to mimic real-world networks.",0.994763195514679
+Hy7EPh10W,We propose a novel method for detecting novelty in classification-based systems.,0.7957807183265686
+Byx4xH3is7,We present a flexible and interpretable framework for learning domain invariant speaker embeddings using Generative Adversarial Networks.,0.9932819604873657
+Skl3M20qYQ,We propose a new state-of-the-art approach called Non-synergistic variational Autoencoder (Non-Syn VAE).,0.99480801820755
+r1erRoCqtX,We propose structured arrangements for SGD that accelerate training by 3-20% over example examples.,0.6370176672935486
+rJ7yZ2P6-,We proposed an algorithm which combines the general pre-trained word embedding vectors with those  generated on the task-specific training set to address this issue.,0.9971412420272827
+HJxwAo09KQ,"We propose a training scheme which overcomes both of these difficulties, by dynamically weighting two unbiased gradient estimators for a variational loss on optimizer performance.",0.9950429201126099
+H1lo3sC9KX,"We propose a novel asynchronous distributed gradient descent algorithm that tackles this limitation by well-thought-out averaging of model updates, computed by workers.",0.9629353880882263
+ryetZ20ctX,We propose a novel quantization method to defend neural networks against adversarial examples.,0.9931027889251709
+HkwVAXyCW,"We introduce Skip RNN, a new RNN model which extends existing RNN models by learning to skip state updates and shortens the effective size of the computational graph.",0.8528235554695129
+Sygx4305KQ,We propose a fast second-order method that can be used as a drop-in replacement for current deep learning solvers.,0.9955541491508484
+ByxBFsRqYm,"We propose a model based on attention layers with benefits over the Pointer Network and we show how to train this model using REINFORCE with a simple baseline based on a deterministic greedy rollout, which we find is more efficient than using a value function.",0.9834576845169067
+H1OQukZ0-,We propose an efficient online hyperparameter optimization method which uses a joint dynamical system to evaluate the gradient with respect to the hyperparameters.,0.9920507073402405
+ByJHuTgA-,We evaluate the state of the art of recurrent neural network architectures and show that standard LSTM architectures outperform more recent models.,0.8024485111236572
+rkzeXBDos7,"We investigate the role of residual and highway connections in spectral speech enhancement, and verify whether they operate similarly to their traditional, digital signal processing methods.",0.9794816374778748
+B1l08oAct7,"We introduce a novel deterministic method to approximate moments in neural networks, eliminating gradient variance.",0.9910094738006592
+HkfwpiA9KX,We propose a framework for the specification of complex temporal dependent tasks with logical expressions and construction of new skills from existing ones with no additional exploration.,0.9965232610702515
+rJl8FoRcY7,We propose a multi-modal VAE derived from the full joint marginal log-likelihood that is able to learn the most meaningful representation for ambiguous observations.,0.9957679510116577
+BJ8c3f-0b,Auto-encoding sequential Monte Carlo for structured probabilistic models,0.9404438734054565
+rJleN20qK7,"We provide a two-timescale network (TTN) architecture that enables linear methods to be used to learn values, with a nonlinear representation learned at a slower timescale.",0.9938364624977112
+BylahsR9tX,We propose a low-rank matrix factorization algorithm to compress network parameters and significantly speed up LSTMs with almost no loss of performance (and sometimes even gain).,0.9963996410369873
+rJxY_oCqKQ,We propose a novel method for detecting image duplication in scientific publications by learning to map images into 128-dimensional space.,0.19972068071365356
+SJahqJZAW,"We propose a novel method to train a single generator simultaneously against an array of discriminators, each of which looks at a different random low-dimensional projection of the data.",0.5461750626564026
+rJlWOj0qF7,"We present a novel method to precisely impose tree-structured category information onto word-embeddings, resulting in ball embeddings in higher dimensional spaces (N-balls for short).",0.9937466382980347
+H1xEwsR9FX,We propose a new framework for convolutional CRF post-processing that can be used to improve inference and training performance.,0.9805107712745667
+SJlgRqjssQ,We propose a framework which validates robustness of any Question Answering model through model explainers.,0.9936006665229797
+rJHcpW-CW,We propose a mix-generator generative adversarial networks (PGAN) model that works in parallel by mixing multiple disjoint generators to approximate a complex real distribution.,0.9971882700920105
+SyYYPdg0-,We capitalize on the natural compositional structure of images in order to learn object segmentation with weakly labeled images.,0.9949971437454224
+H1lug3R5FX,We propose a geometric framework to analyze the high-dimensional geometry of adversarial examples.,0.9980446100234985
+BJ8vJebC-,We introduce a new approach to improve character-based neural machine translation (NMT) models that can simultaneously learn representations robust to multiple kinds of noise.,0.9656506180763245
+B1Lc-Gb0Z,We propose a recursive mini-batch algorithm for learning deep hard-threshold neural networks that can be solved as a discrete optimization problem.,0.9631229043006897
+HymuJz-A-,We show that neural networks are severely limited in their ability to learn visual relations in images.,0.6001654267311096
+HkgYmhR9KX,"We propose an adversarial RL method which adopts an Asymmetric Dueling mechanism, referred to as AD-VAT.",0.989595353603363
+S1xf-W5paX,We propose a method to learn a hierarchical word embedding in a speciﬁc order to capture the hypernymy.,0.9954817295074463
+BJ8lbVAfz,We introduce a self-organizing learning rule into a supervised network and show how gradient learning results in a form of a self,0.2643814980983734
+SJx94o0qYX,We propose a new method to solve the accumulated quantization error in neural networks.,0.9530121088027954
+HkZy-bW0-,We propose a variant on backpropagation for neural networks in which computation scales with the rate of change of the data - not the rate at which we process the data.,0.9951595664024353
+rke4HiAcY7,"We propose a functional that, unlike the IB Lagrangian, can recover the IB curve in all cases.",0.9716482758522034
+B1eZRiC9YX,We prove that idealised models can have no adversarial examples.,0.9956348538398743
+Syx_Ss05tm,We propose a new adversarial attack that can be used to reprogram a machine learning model to perform a task chosen by the attacker.,0.98338782787323
+HJlQfnCqKX,We propose a measure that can predict the generalization gap in deep neural networks.,0.9799123406410217
+rkMnHjC5YQ,We propose a new algorithm to learn a one-hidden-layer convolutional neural network where both the convolutionals weights and the outputs weights are parameters to be learned.,0.9967067837715149
+B1hYRMbCW,"We propose a new way to enforce the Lipschitz constraint on the class of functions, which can be modeled by the neural network, is weight clipping. Augmenting the loss by a regularization term that penalizes the deviation of the gradient norm of the critic (as a function of the network's",0.7192791700363159
+Bye5OiR5F7,We introduce a new method for training GANs by applying the Wasserstein-2 metric proximal on the generators. Â,0.6904323101043701
+r1ls4-DpvN,We develop a weighted mini-bucket approach for bounding the MEU of influence diagrams.,0.6067306399345398
+SkMuPjRcKQ,We propose a feed-forward propagation method for probabilistic neural networks that allows one to estimate for each neuron its mean and variance w.r.t. all mentioned sources of stochasticity.,0.9841381907463074
+HJE6X305Fm,We show that the Wasserstein distance is just one out of a large family of objective functions that yield these properties.,0.9952837824821472
+By-IifZRW,We propose a method to learn stochastic activation functions for use in probabilistic neural networks.,0.996002733707428
+SkeUG30cFQ,"We propose a deep ReLU network that can approximate a deep diagonal-circulant ReLU model of low rank. Based on this result, we provide new bounds on the expressive power and universal approximativeness of this type of networks.",0.9171875715255737
+BviYjfnIk,"We designed StarHopper, a novel touch screen interface for efficient object-centric camera drone navigation, in which a user directly specifies the navigation of a drone camera relative to a specified object of interest.",0.9921079277992249
+H1cWzoxA-,Bi-directional block self-attention network for RNN/CNN-free sequence encoding,0.9909862875938416
+Syl7OsRqY7,We propose a new question answering model that combines information from evidence across multiple documents.,0.9964590668678284
+HyexAiA5Fm,We propose a scalable method for unbalanced optimal transport based on the generative-adversarial framework.,0.9969556331634521
+BJxbYoC9FQ,"We propose classifier-agnostic saliency map extraction, which extracts all parts of the image that any classifier could use, not just one given in advance.",0.9615739583969116
+ryxwJhC9YX,"We propose a novel instance-aware GAN (InstaGAN), that incorporates the instance information (e.g., object segmentation masks) and improves multi-instance transfiguration.",0.9949413537979126
+rye4g3AqFm,We show that deep neural networks generalize remarkably well without explicit regularization even in the strongly over-parametrized regime  where classical learning theory would instead predict that they would severely overfit.,0.9794782400131226
+SyjjD1WRb,We establish a theoretical link between evolutionary algorithms and variational parameter optimization of probabilistic generative models with binary hidden variables.,0.9916473627090454
+SJlp8sA5Y7,We propose a recurrent distribution model for deep neural networks that adopts a recurrent architecture for the task of forward prediction.,0.9370744228363037
+rJXMpikCZ,"We present graph attention networks (GATs), novel neural network architectures that operate on graph-structured data, leveraging masked self-attentional layers to address the shortcomings of prior methods based on graph convolutions or their approximations.",0.9899033308029175
+B1hcZZ-AW,We propose a principled method for learning reduced network architectures in a data-driven way using reinforcement learning.,0.9963394403457642
+HJxyAjRcFX,We propose novel training schemes with a new set of losses named moment reconstruction losses that simply replace the reconstruction loss.,0.9965157508850098
+SySisz-CW,We use the causality principle of independence of mechanisms to quantify how the weights of successive layers adapt to each other.,0.9962835907936096
+BJB7fkWR-,We propose a new approach for learning visually distinct game state embeddings irrespective of the visual rendering of the game state.,0.9816426038742065
+rkeMHjR9Ym,"We study discrete time dynamical systems governed by the state equation $h_{t+1}=ϕ(Ah_t+Bu_t)$. Here A,B are weight matrices, ϕ is an activation function, and $u_t$ is the input data.",0.9852985739707947
+SJlYcoCcKX,We propose several novel methods for learning neuron manifold from deep neuron network.,0.9084087610244751
+H1gMCsAqY7,"We present a simple and general method to train a single neural network executable at different widths (number of channels in a layer), permitting instant and adaptive accuracy-efficiency trade-offs at runtime.",0.9872406125068665
+Skvd-myR-,We analyze a simple approach for deep learning networks to be used as an approximation of non-metric similarity functions and we study how these models generalize across different image retrieval datasets.,0.997272789478302
+B1G9doA9F7,"We propose an augmented cyclic adversarial learning model that enforces the cycle-consistency constraint via an external task specific model, which encourages the preservation of task-relevant content as opposed to exact reconstruction.",0.9937279224395752
+rJR2ylbRb,"We develop GraphWave, a method that represents each node’s local network neighborhood via a low-dimensional embedding by leveraging spectral graph wavelet diffusion patterns.",0.9956589937210083
+4ZO8BVlix-,We present a user study that subjectively measures user's sense of presence in UniNet.,0.996624231338501
+H1U_af-0-,We propose a method to improve kernel approximation via feature maps.,0.957983136177063
+rkgZ3oR9FX,We combine visual and linguistic input to construct a large dataset containing natural utterances referring to 3D objects from ShapeNet in a wide variety of contexts.,0.04499754682183266
+HJx9EhC9tQ,We present a paradigm for learning object-centric representations for physical scene understanding without direct supervision of object properties.,0.9873331785202026
+BJk7Gf-CZ,We study the error landscape of deep linear and nonlinear neural networks with the squared error loss.,0.9946763515472412
+r1cLblgCZ,We propose relaxing the dimensionality of the decoder output so that it performs partial reconstruction.,0.9955397248268127
+B1xJAsA5F7,We present a novel adversarial training method for learning diverse graph translations.,0.9713793992996216
+rklaWn0qK7,We propose a fast iterative solver tailored to a specific domain.,0.9964941143989563
+rkxacs0qY7,"We propose functional variational Bayesian neural networks which maximize an Evidence Lower BOund defined directly on stochastic processes, i.e. distributions over functions.",0.9903459548950195
+Ske5r3AqK7,We propose to embed words in a Cartesian product of hyperbolic spaces which we theoretically connect to the Gaussian word embeddings and their Fisher geometry.,0.9856313467025757
+B1lf43A5Y7,We investigate how effective a canonical architecture for multi-hop reasoning is in the context of three multi-Hop reasoning settings.,0.9741055965423584
+r1NYjfbR-,We compute deep convolutional network generators by inverting a fixed embedding operator.,0.9945212602615356
+B1xf9jAqFQ,"We present Structural-Jump-LSTM, a novel neural speed reading model that can skip and jump text during inference.",0.7764160633087158
+SkfTIj0cKX,"We propose a novel architecture to augment reward, namely Imagination Reconstruction Network (IRN), which improves the performance of recommender agents as a Markov Decision Process.",0.004332466050982475
+r1YUtYx0-,"We propose a new approach to generalize deep learning algorithms, based on the argument of Xu & Mannor, 2012.",0.7932937741279602
+r1wEFyWCW,We propose a new method for learning neural attention policy for few-shot density estimation on Omniglot.,0.9435350894927979
+rJ33wwxRb,"We show that SGD can avoid overfitting, when learning over-parameterized neural networks.",0.9897038340568542
+rJg8yhAqKm,We propose to learn about decision states from prior experience.,0.998247504234314
+B1xFxh0cKX,We propose a method for optimally using surrogate gradient directions along with random search to optimize evolutionary strategies.,0.9304079413414001
+SJeXSo09FQ,We study the unsupervised problem of graph convolution in a GAN and define methods for graph convolutions when the graph is not known in advance as it is the very output of the generator.,0.9824986457824707
+HyGDdsCcFQ,We use the implicit regularization effect of stochastic gradient descent to separate clean and mislabeled examples with remarkable success using loss statistics.,0.9949589371681213
+S1lTEh09FQ,We propose a new method for attacking BNNs through combinatorial and integer optimization.,0.9096032977104187
+SklckhR5Ym,We propose a new regularization method based on decoding the last token in the context using the predicted distribution of the next token.,0.9950361847877502
+rJ695PxRW,We propose a novel Generative Markov Network (GMN) which we use to extract the order of data instances automatically.,0.9945711493492126
+B1KJJf-R-,"We present a Neural Program Search, an algorithm to generate programs from natural language description and a small number of input / output examples.",0.9937909245491028
+Hk9Xc_lR-,We show that a discriminator set is guaranteed to be discriminative whenever its linear span is dense in the set of bounded continuous functions.,0.9900744557380676
+H1gsz30cKX,"We propose fixed-update initialization (Fixup), an initialization motivated by solving the exploding and vanishing gradient problem at the beginning of training via properly rescaling a standard initialization.",0.9940245747566223
+r1kP7vlRb,We propose two new methods to learn better metric than SeqGAN and the model trained with MLE.,0.8481866717338562
+rJTGkKxAZ,"We propose a novel method for decomposing complicated objects in which we first generate latent variables which describe a subset of the observed variables, and then map from these latent variables to the observed space.",0.9854975938796997
+BJe8niAqKX,We propose a new way to leverage visual knowledge for sentence representations.,0.9981287121772766
