@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "method": "baseline",
+      "average_summac": 0.7734256676595315,
+      "average_rougeL": 0.3498784570886064
+    },
+    {
+      "method": "penalty_0.5",
+      "average_summac": 0.8678434923507863,
+      "average_rougeL": 0.3503292276010305
+    },
+    {
+      "method": "penalty_1.0",
+      "average_summac": 0.8947653618947625,
+      "average_rougeL": 0.34645641334302546
+    },
+    {
+      "method": "penalty_2.0",
+      "average_summac": 0.8577500786521964,
+      "average_rougeL": 0.347106775792592
+    }
+  ],
+  "ranked_penalties": [
+    {
+      "method": "penalty_1.0",
+      "average_summac": 0.8947653618947625,
+      "average_rougeL": 0.34645641334302546
+    },
+    {
+      "method": "penalty_0.5",
+      "average_summac": 0.8678434923507863,
+      "average_rougeL": 0.3503292276010305
+    },
+    {
+      "method": "penalty_2.0",
+      "average_summac": 0.8577500786521964,
+      "average_rougeL": 0.347106775792592
+    }
+  ],
+  "selection_criterion": "highest unrounded average SummaC of AlignScore-selected summaries",
+  "exact_tie_rule": "first configured penalty; ROUGE-L never breaks ties"
+}

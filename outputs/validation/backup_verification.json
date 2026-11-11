@@ -1,0 +1,9 @@
+{
+  "conflicts_remaining": false,
+  "preserved_inputs": [
+    "outputs/baseline.csv",
+    "outputs/hub_models/SciTLDR-trained-BART",
+    "data/raw/dev.jsonl"
+  ],
+  "note": "Legacy faithfulness/run_01 is a separate test experiment, left in place."
+}
